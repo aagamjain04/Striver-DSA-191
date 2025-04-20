@@ -6,7 +6,7 @@ Given an `m x n` integer matrix `matrix`, if an element is `0`, set its enti
 You must do it `in place`.
 
 <p align="center">
-  <img src="Images/img1.png">
+  <img src="../Images/img1.png">
   <br/>
 </p>
 
@@ -41,6 +41,7 @@ void setZeroes(vector<vector<int>>& mat) {
 ```
 
 > `Time Complexity` : O(m * n)
+> 
 > `Space Complexity` : O(m+n)
 
 ---
@@ -98,6 +99,7 @@ void setZeroes(vector<vector<int>>& mat) {
 ```
 
 > `Time Complexity` : O(m * n)
+> 
 > `Space Complexity` : O(1)
 
 ---

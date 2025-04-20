@@ -5,7 +5,11 @@
 Given an `m x n` integer matrix `matrix`, if an element is `0`, set its entire row and column to `0`'s.
 You must do it `in place`.
 
-![[Screenshot 2025-04-12 at 3.54.04 PM.png]]
+<p align="center">
+  <img src="Images/img1.png">
+  <br/>
+</p>
+
 
 ### Approach 1 :
 
@@ -36,8 +40,8 @@ void setZeroes(vector<vector<int>>& mat) {
     }
 ```
 
-- `Time Complexity` : O(m * n)
-- `Space Complexity` : O(m+n)
+> `Time Complexity` : O(m * n)
+> `Space Complexity` : O(m+n)
 
 ---
 
@@ -93,7 +97,7 @@ void setZeroes(vector<vector<int>>& mat) {
 }
 ```
 
-- `Time Complexity` : O(m * n)
-- `Space Complexity` : O(1)
+> `Time Complexity` : O(m * n)
+> `Space Complexity` : O(1)
 
 ---

@@ -36,8 +36,8 @@ void setZeroes(vector<vector<int>>& mat) {
     }
 ```
 
-`Time Complexity` : O(m * n)
-`Space Complexity` : O(m+n)
+- `Time Complexity` : O(m * n)
+- `Space Complexity` : O(m+n)
 
 ---
 
@@ -93,6 +93,7 @@ void setZeroes(vector<vector<int>>& mat) {
 }
 ```
 
-Time Complexity` : O(m * n)
-`Space Complexity` : O(1)
+- `Time Complexity` : O(m * n)
+- `Space Complexity` : O(1)
 
+---

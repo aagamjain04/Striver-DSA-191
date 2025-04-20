@@ -6,7 +6,7 @@ Given an `m x n` integer matrix `matrix`, if an element is `0`, set its enti
 You must do it `in place`.
 
 
-![[../Images/img1.png]]
+![img](../Images/img1.png)
 
 
 ### Approach 1 :

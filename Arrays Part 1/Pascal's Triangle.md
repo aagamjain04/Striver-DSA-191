@@ -12,7 +12,7 @@ In **Pascal's triangle**, each number is the sum of the two numbers directly ab
 Given row number r and column number c. Print the element at position (r, c) in Pascal’s triangle.
 
 ```
-nCr = n!
+nCr =    n!
 	----------
 	(n-r)! * r!
 ```

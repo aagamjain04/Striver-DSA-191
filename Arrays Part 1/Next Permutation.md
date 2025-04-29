@@ -26,9 +26,19 @@ void allPerm(string s,int i){
         swap(s[i],s[j]);
         allPerm(s,i+1);    
     }
-}```
+}
+```
 
-
+```
+INPUT : ABC
+OUTPUT : 
+ABC
+ACB
+BAC
+BCA
+CAB
+CBA
+```
 
 ---
 

@@ -28,20 +28,12 @@ void allPerm(string s,int i){
     }
 }```
 
-```
-INPUT : ABC
-OUTPUT : 
-ABC
-ACB
-BAC
-BCA
-CAB
-CBA
-```
+
 
 ---
 
 ### Approach 2:
+
 
 1. Let `arr = [2, 1, 5, 4, 3, 0, 0]`
 2. Traverse from back and find first point where `arr[i] < arr[i+1]`

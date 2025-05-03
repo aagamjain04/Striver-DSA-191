@@ -9,7 +9,7 @@ has the largest sum and returns its sum and prints the subarray.
 ### Approach 1 :
 
 - Calculate the sum of all possible subarrays and keep track of the maximum sum.
-	**Time Complexity**: O(n²) where n is the length of the array **Space Complexity**: O(1)
+	- **Time Complexity**: O(n²) where n is the length of the array **Space Complexity**: O(1)
 
 ```cpp
 class Solution {
@@ -53,7 +53,8 @@ public:
         }
         return maxSum;
     }
-};```
+};
+```
 
 > `Time Complexity` : O(n)
 > 

@@ -1,4 +1,4 @@
-# Merge Intervals
+[Problem Link](https://leetcode.com/problems/merge-intervals/description/)
 
 ## Problem Statement
 
@@ -85,12 +85,6 @@ vector<vector<int>> merge(vector<vector<int>>& intervals) {
 - **Space Complexity**: O(n) for storing the result. If we don't count the output array, the space complexity would be O(1).
     
 
-## Edge Cases
-
-1. **Empty input**: Return an empty array.
-2. **Single interval**: Return the interval as is.
-3. **All intervals overlap**: Return a single merged interval.
-4. **No overlapping intervals**: Return the original array (sorted).
 
 ## Visual Example
 

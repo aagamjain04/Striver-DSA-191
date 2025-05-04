@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 1/Kadane's Algorithm.md",
+                "file": "Arrays Part 2/Rotate Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kadane's Algorithm"
-            }
-          },
-          {
-            "id": "3ec99cdee72e785a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/img2.png"
-              },
-              "icon": "lucide-image",
-              "title": "img2"
+              "title": "Rotate Matrix"
             }
           },
           {
@@ -62,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,12 +205,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e320c99d44522408",
+  "active": "1f4cf55fd0912e5f",
   "lastOpenFiles": [
-    "Untitled.md",
     "Arrays Part 1/Best Time to Buy and Sell.md",
+    "Untitled.md",
+    "Arrays Part 2/Rotate Matrix.md",
     "Arrays Part 1/Kadane's Algorithm.md",
     "Images/img2.png",
+    "Arrays Part 2",
     "Arrays Part 1/Sort Colors.md",
     "Arrays Part 1/Set Matrix Zeroes.md",
     "Arrays Part 1/Next Permutation.md",

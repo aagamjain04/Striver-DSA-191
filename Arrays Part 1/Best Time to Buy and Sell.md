@@ -20,7 +20,7 @@ Output: 0
 Explanation: No profit can be achieved as prices are continuously decreasing.
 ```
 
-## Approach 1: Brute Force
+### Approach 1: Brute Force
 
 - Check all possible buying and selling combinations
 - Time complexity: O(n²)
@@ -42,12 +42,12 @@ int maxProfit(vector<int>& prices) {
 }
 ```
 
-## Approach 2: One Pass (Optimized)
+---
+### Approach 2: One Pass (Optimized)
 
 - Keep track of the minimum price seen so far
 - Calculate potential profit at each step
-- Time complexity: O(n)
-- Space complexity: O(1)
+
 
 ```cpp
 int maxProfit(vector<int>& prices) {
@@ -72,7 +72,8 @@ int maxProfit(vector<int>& prices) {
 ```
 
 
-## Complexity Analysis
+> `Time Complexity` : O(n)
+> 
+> `Space Complexity` : O(1)
 
-- Time Complexity: O(n) - we only need to iterate through the prices array once
-- Space Complexity: O(1) - we only use a constant amount of extra space
+---

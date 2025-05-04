@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 2/Rotate Matrix.md",
+                "file": "Arrays Part 1/Best Time to Buy and Sell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotate Matrix"
+              "title": "Best Time to Buy and Sell"
             }
           },
           {
@@ -207,16 +207,16 @@
   },
   "active": "1f4cf55fd0912e5f",
   "lastOpenFiles": [
+    "Arrays Part 1/Set Matrix Zeroes.md",
+    "Arrays Part 1/Pascal's Triangle.md",
+    "Arrays Part 2/Rotate Matrix.md",
     "Arrays Part 1/Best Time to Buy and Sell.md",
     "Untitled.md",
-    "Arrays Part 2/Rotate Matrix.md",
     "Arrays Part 1/Kadane's Algorithm.md",
     "Images/img2.png",
     "Arrays Part 2",
     "Arrays Part 1/Sort Colors.md",
-    "Arrays Part 1/Set Matrix Zeroes.md",
     "Arrays Part 1/Next Permutation.md",
-    "Arrays Part 1/Pascal's Triangle.md",
     "Images/img1.png"
   ]
 }

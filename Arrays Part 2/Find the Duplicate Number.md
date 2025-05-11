@@ -63,7 +63,7 @@ Output: 3
 - Let cycle length be `C`
 - Let slow move by `d` and fast move by `2d`
 - Extra distance covered by fast is proportional to cycles length
--```
+
 ```
 2d - d = k * C
 d = k * C -- (1)

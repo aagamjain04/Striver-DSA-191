@@ -46,7 +46,7 @@ Output: 3
 
 ### Approach 3:
 - Heard and tortoise method (Floyd's Algo)
-- The given array arrangement will always have a cycle since all the numbers.
+- The given array arrangement will always have a cycle since all the numbers correspond to an index and we have repeated elements.
 
 **Why slow and fast will meet?**
 - Now since we have cycle we will start with two pointers `slow and fast`.

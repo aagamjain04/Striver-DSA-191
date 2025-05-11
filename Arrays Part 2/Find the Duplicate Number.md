@@ -46,7 +46,9 @@ Output: 3
 
 ### Approach 3:
 - Heard and tortoise method (Floyd's Algo)
-- The given array arrangement will always have a cycle since all the numbers correspond to an index and we have repeated elements.
+- The given array arrangement will always have a cycle since all the numbers correspond to an index and we have repeated elements
+
+![img](../Images/img3.png)
 
 **Why slow and fast will meet?**
 - Now since we have cycle we will start with two pointers `slow and fast`.
@@ -58,9 +60,6 @@ Output: 3
 - `x` being an integer, gap will go to 0 and that is when slow and fast will meet.
 
 **How to find point where cycle starts?**
-
-![[Pasted image 20250512024321.png]]
-
 - Let cycle length be `C`
 - Let slow move by `d` and fast move by `2d`
 - Extra distance covered by fast is proportional to cycles length

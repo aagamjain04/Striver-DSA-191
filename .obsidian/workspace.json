@@ -25,14 +25,14 @@
             "id": "21433ae6f67a3808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Untitled.md",
+                "bFile": "Untitled.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "diff",
+              "title": "Diff: Untitled"
             }
           },
           {
@@ -222,16 +222,18 @@
   },
   "active": "21433ae6f67a3808",
   "lastOpenFiles": [
+    "Arrays Part 2/Inversion of Array.md",
+    "Arrays Part 2/Find the repeating and missing numbers.md",
+    "Arrays Part 2/Rotate Matrix.md",
+    "Arrays Part 2/Merge Intervals.md",
+    "Excalidraw/Drawing 2025-05-12 02.39.19.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-05-14 06.34.06.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-12 02.39.19.excalidraw.md",
-    "Arrays Part 2/Find the repeating and missing numbers.md",
     "Arrays Part 1/Sort Colors.md",
     "Arrays Part 2/Find the Duplicate Number.md",
     "Arrays Part 1/Pascal's Triangle.md",
     "Images/img3.png",
     "Images/img2.png",
-    "Arrays Part 2/Rotate Matrix.md",
     "Arrays Part 1/Next Permutation.md",
     "Arrays Part 1/Kadane's Algorithm.md",
     "Arrays Part 1/Best Time to Buy and Sell.md",
@@ -246,7 +248,6 @@
     "Ink/Writing/2025.5.12 - 0.05am.writing",
     "Ink/Writing",
     "Ink",
-    "Arrays Part 2/Merge Intervals.md",
     "Arrays Part 2/Merge Sorted Arrays.md",
     "Arrays Part 1/Set Matrix Zeroes.md",
     "Arrays Part 2",

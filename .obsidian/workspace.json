@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 2/Find the repeating and missing numbers.md",
+                "file": "Arrays Part 2/Inversion of Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find the repeating and missing numbers"
-            }
-          },
-          {
-            "id": "21433ae6f67a3808",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Untitled.md",
-                "bFile": "Untitled.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Untitled"
+              "title": "Inversion of Array"
             }
           },
           {
@@ -63,8 +49,7 @@
               "title": "Next Permutation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +205,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21433ae6f67a3808",
+  "active": "7c2578ddcfed26af",
   "lastOpenFiles": [
-    "Arrays Part 2/Inversion of Array.md",
     "Arrays Part 2/Find the repeating and missing numbers.md",
+    "Arrays Part 2/Inversion of Array.md",
     "Arrays Part 2/Rotate Matrix.md",
     "Arrays Part 2/Merge Intervals.md",
     "Excalidraw/Drawing 2025-05-12 02.39.19.excalidraw.md",

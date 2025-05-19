@@ -47,10 +47,11 @@ Therefore,
 - `x & (-x) = 0 1 0` 
 
 
-<div style="border:1px solid #ccc; padding:10px">
-<b>Rightmost set bit for any number x = x & (-x)</b><br>
-<b>To remove last set bit : x = x - (x & (-x))</b>
-</div>
+```
+Rightmost set bit for any number x = x & (-x)
+To remove last set bit : x = x - (x & (-x))
+```
+
 
 
 ## BIT Array Structure

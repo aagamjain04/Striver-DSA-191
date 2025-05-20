@@ -166,3 +166,135 @@ class Solution {
 ---
 
 
+### Approach 3 :
+
+- **Merge Sort**
+- Given `n < 10⁵` and `arr[i]<10⁹`
+
+### Logic
+
+While merging, check if `arr[left] > arr[right]`, add the count
+
+## Example
+
+Let `arr = [5, 3, 2, 4, 1]`
+
+## Merge Sort Tree Visualization
+
+```
+                    [5, 3, 2, 4, 1]
+                   /              \
+                  /                \
+           [5, 3, 2]              [4, 1]
+          /        \              /     \
+     [5, 3]        [2]         [4]     [1]
+     /    \
+   [5]    [3]
+```
+
+## Step-by-step Merging Process
+
+### Level 1: Leaf merges
+
+- `[5]` and `[3]` → `[3, 5]` (1 inversion: 5 > 3)
+- `[4]` and `[1]` → `[1, 4]` (1 inversion: 4 > 1)
+
+### Level 2: Mid-level merges
+
+- `[3, 5]` and `[2]` → `[2, 3, 5]`
+    - 2 is less than 3 and 2 will be less than all elements right of 3
+    - Inversions: +2 (both 3 and 5 are greater than 2)
+
+### Level 3: Final merge
+
+- `[2, 3, 5]` and `[1, 4]` → `[1, 2, 3, 4, 5]`
+    - `(2,1) → +3` (2, 3, 5 are all greater than 1)
+    - `(5,4) → +1` (5 is greater than 4)
+
+## Final Result
+
+**Total inversions = 1 + 1 + 2 + 3 + 1 = 8**
+
+### Code :
+
+```cpp
+class Solution {
+  public:
+  
+    int merge(int l,int m,int r,vector<int> &arr)
+    {
+        int n1 = m-l+1;
+        int n2 = r-m;
+        
+        vector<int> v1(n1),v2(n2);
+        
+        for(int i=0;i<n1;i++)
+            v1[i] = arr[l+i];
+
+        for(int i=0;i<n2;i++)
+            v2[i] = arr[m+1+i];
+            
+        
+        int i=0,j=0,k=l;
+        
+        int inv = 0;
+        
+        while(i<n1 && j<n2){
+            
+            if(v1[i]<=v2[j]){
+                arr[k] = v1[i];
+                k++;i++;
+            }
+            else{
+                arr[k] = v2[j];
+                k++;j++;
+                
+                inv+=(n1-i); //inversion logic
+            }
+        }
+        
+        while(i<n1){
+            arr[k] = v1[i];
+            k++;i++;
+        }
+        
+        while(j<n2){
+            arr[k] = v2[j];
+            k++;j++;
+        }
+        
+        return inv; 
+        
+    }
+   
+    int mergeSort(int l,int r,vector<int> &arr){
+        int count = 0;
+        if(l<r){
+            
+            int m = (l+r)/2;
+            
+            count+=mergeSort(l,m,arr);
+            count+=mergeSort(m+1,r,arr);
+            count+=merge(l,m,r,arr);
+        }
+        return count;
+    }
+    
+    
+    int inversionCount(vector<int> &arr) {
+      
+        int n = arr.size();
+        return mergeSort(0,n-1,arr);
+        
+    }
+};
+
+```
+
+
+> `Time Complexity` : O(nlogn)
+> 
+> `Space Complexity` : O(n)
+
+
+---

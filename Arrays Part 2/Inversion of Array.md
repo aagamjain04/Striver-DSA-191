@@ -211,9 +211,9 @@ Let `arr = [5, 3, 2, 4, 1]`
     - `(2,1) → +3` (2, 3, 5 are all greater than 1)
     - `(5,4) → +1` (5 is greater than 4)
 
-## Final Result
+### Final Result
 
-**Total inversions = 1 + 1 + 2 + 3 + 1 = 8**
+`Total inversions = 1 + 1 + 2 + 3 + 1 = 8`
 
 ### Code :
 

@@ -102,7 +102,7 @@ Example array:
 Steps:
 
 1. Do an upper bound on first column
-2. The row above it is where binary search is to be done
+2. The row below it is where binary search is to be done
 3. Do binary search on row
 
 ### Algorithm Implementations

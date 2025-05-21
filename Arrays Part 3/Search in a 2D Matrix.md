@@ -150,7 +150,8 @@ public:
         return false;
 
     }
-};```
+};
+```
 
 
 **Note**: If lower/upper bound does not exist then r = n.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 3/Implement Pow(x,n).md",
+                "file": "Arrays Part 3/Majority Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implement Pow(x,n)"
+              "title": "Majority Element"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 1/Next Permutation.md",
+                "file": "Arrays Part 2/Merge Intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Permutation"
+              "title": "Merge Intervals"
             }
           }
         ],
@@ -236,21 +236,23 @@
   },
   "active": "3109fc06fb3cc5ab",
   "lastOpenFiles": [
-    "Arrays Part 2/Inversion of Array.md",
-    "Arrays Part 3/Implement Pow(x,n).md",
-    "Arrays Part 3/Search in a 2D Matrix.md",
     "Arrays Part 1/Sort Colors.md",
+    "Arrays Part 2/Merge Intervals.md",
+    "Arrays Part 2/Merge Sorted Arrays.md",
+    "Arrays Part 1/Next Permutation.md",
+    "Arrays Part 3/Majority Element.md",
+    "Arrays Part 3/Search in a 2D Matrix.md",
+    "Arrays Part 3/Implement Pow(x,n).md",
+    "Arrays Part 2/Inversion of Array.md",
     "Arrays Part 3",
     "Arrays Part 2/Find the repeating and missing numbers.md",
     "Arrays Part 2/Rotate Matrix.md",
-    "Arrays Part 2/Merge Intervals.md",
     "Excalidraw/Drawing 2025-05-12 02.39.19.excalidraw.md",
     "Excalidraw/Drawing 2025-05-14 06.34.06.excalidraw.md",
     "Arrays Part 2/Find the Duplicate Number.md",
     "Arrays Part 1/Pascal's Triangle.md",
     "Images/img3.png",
     "Images/img2.png",
-    "Arrays Part 1/Next Permutation.md",
     "Arrays Part 1/Kadane's Algorithm.md",
     "Arrays Part 1/Best Time to Buy and Sell.md",
     "Excalidraw/Drawing 2025-05-12 02.26.12.excalidraw.md",
@@ -264,7 +266,6 @@
     "Ink/Writing/2025.5.12 - 0.05am.writing",
     "Ink/Writing",
     "Ink",
-    "Arrays Part 2/Merge Sorted Arrays.md",
     "Arrays Part 1/Set Matrix Zeroes.md",
     "Arrays Part 2",
     "Images/img1.png"

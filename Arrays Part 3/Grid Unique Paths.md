@@ -53,7 +53,7 @@ int uniquePath(int i,int j){
 #### Combinatorics
 
 - To reach end, we'll take a total steps of (m-1) right and (n-1) down. So total of `m+n-2` steps.
-* Reduces to find no of ways to arrange (m-1) right moves or (m-1) down moves
+- Reduces to find no of ways to arrange (m-1) right moves or (m-1) down moves
 
 **Formula:**
 

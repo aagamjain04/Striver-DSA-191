@@ -56,7 +56,7 @@ Output: [[2,2,2,2]]
 - Fix two pointer `i` and `j`
 - Let `l=j+1` and `r=n-1`
 
-![[4sum.png]]
+![img](../Images/4sum.png)
 
 - To avoid duplicate skip elements if `a[i]==a[i+1]` and `a[j]==a[j+1]`
 - if `a[i] + a[j] + a[l] + a[r] == target` then element is found

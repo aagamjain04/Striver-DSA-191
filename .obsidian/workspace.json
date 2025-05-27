@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 3/Count Reverse Pairs.md",
+                "file": "Arrays Part 4/Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count Reverse Pairs"
-            }
-          },
-          {
-            "id": "7b96d04402066beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays Part 4/4Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4Sum"
+              "title": "Longest Consecutive Sequence"
             }
           },
           {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,10 +234,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b96d04402066beb",
+  "active": "3109fc06fb3cc5ab",
   "lastOpenFiles": [
-    "Arrays Part 1/Pascal's Triangle.md",
+    "Arrays Part 2/Inversion of Array.md",
+    "Arrays Part 4/Longest Consecutive Sequence.md",
+    "Arrays Part 3/Search in a 2D Matrix.md",
     "Arrays Part 4/4Sum.md",
+    "Arrays Part 1/Pascal's Triangle.md",
     "Images/4sum.png",
     "Arrays Part 4/Two Sum.md",
     "Arrays Part 1/Set Matrix Zeroes.md",
@@ -260,11 +249,9 @@
     "Excalidraw/Drawing 2025-05-12 02.39.19.excalidraw.md",
     "Arrays Part 1/Next Permutation.md",
     "Arrays Part 3/Count Reverse Pairs.md",
-    "Arrays Part 3/Search in a 2D Matrix.md",
     "Arrays Part 2/Merge Intervals.md",
     "Arrays Part 1/Sort Colors.md",
     "Arrays Part 4",
-    "Arrays Part 2/Inversion of Array.md",
     "Arrays Part 3/Grid Unique Paths.md",
     "Images/robot_maze.png",
     "Arrays Part 3/Majority Element.md",

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 4/Subarray with given XOR.md",
+                "file": "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subarray with given XOR"
+              "title": "Length of Longest Substring without any Repeating Character"
             }
           },
           {
@@ -237,10 +237,11 @@
   "active": "3109fc06fb3cc5ab",
   "lastOpenFiles": [
     "Arrays Part 4/Largest subarray with 0 sum.md",
-    "Arrays Part 4/Subarray with given XOR.md",
-    "Arrays Part 3/Search in a 2D Matrix.md",
-    "Arrays Part 2/Inversion of Array.md",
+    "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
     "Arrays Part 1/Sort Colors.md",
+    "Arrays Part 3/Search in a 2D Matrix.md",
+    "Arrays Part 4/Subarray with given XOR.md",
+    "Arrays Part 2/Inversion of Array.md",
     "Arrays Part 4/Longest Consecutive Sequence.md",
     "Arrays Part 4/4Sum.md",
     "Arrays Part 1/Pascal's Triangle.md",
@@ -267,7 +268,6 @@
     "Arrays Part 2/Find the Duplicate Number.md",
     "Images/img3.png",
     "Images/img2.png",
-    "Excalidraw/Drawing 2025-05-12 02.26.12.excalidraw.md",
     "Excalidraw",
     "Ink/Drawing/2025.5.12 - 0.11am.drawing",
     "Ink/Drawing/2025.5.12 - 0.09am.drawing",

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked List Part 1/Remove N-th node from the end of a Linked List.md",
+                "file": "Linked List Part 1/Add two numbers represented as Linked Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove N-th node from the end of a Linked List"
+              "title": "Add two numbers represented as Linked Lists"
             }
           },
           {
@@ -250,9 +250,10 @@
   },
   "active": "50361be28bae46c5",
   "lastOpenFiles": [
-    "Linked List Part 1/Merge two sorted Linked Lists.md",
-    "Linked List Part 1/Remove N-th node from the end of a Linked List.md",
     "Linked List Part 1/Find the middle of LinkedList.md",
+    "Linked List Part 1/Add two numbers represented as Linked Lists.md",
+    "Linked List Part 1/Remove N-th node from the end of a Linked List.md",
+    "Linked List Part 1/Merge two sorted Linked Lists.md",
     "Linked List Part 1/Reverse a Linked List.md",
     "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
     "Linked List Part 1",
@@ -279,7 +280,6 @@
     "Arrays Part 3/Majority Element.md",
     "Arrays Part 3/Majority Element II.md",
     "Arrays Part 2/Merge Sorted Arrays.md",
-    "Arrays Part 3/Implement Pow(x,n).md",
     "Arrays Part 3",
     "Images/img3.png",
     "Images/img2.png",

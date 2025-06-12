@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 4/Largest subarray with 0 sum.md",
+                "file": "Linked List Part 1/Merge two sorted Linked Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Largest subarray with 0 sum"
+              "title": "Merge two sorted Linked Lists"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 3/Search in a 2D Matrix.md",
+                "file": "Linked List Part 2/Intersection of Two Linked Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search in a 2D Matrix"
+              "title": "Intersection of Two Linked Lists"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
+                "file": "Linked List Part 2/Intersection of Two Linked Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Length of Longest Substring without any Repeating Character"
+              "title": "Intersection of Two Linked Lists"
             }
           },
           {
@@ -61,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "Delete a given node"
+            }
+          },
+          {
+            "id": "885d9190c90dd81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked List Part 2/Intersection of Two Linked Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intersection of Two Linked Lists"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,19 +262,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50361be28bae46c5",
+  "active": "3109fc06fb3cc5ab",
   "lastOpenFiles": [
-    "Linked List Part 1/Add two numbers represented as Linked Lists.md",
-    "Linked List Part 1/Delete a given node.md",
-    "Linked List Part 1/Find the middle of LinkedList.md",
-    "Linked List Part 1/Remove N-th node from the end of a Linked List.md",
-    "Linked List Part 1/Merge two sorted Linked Lists.md",
-    "Linked List Part 1/Reverse a Linked List.md",
     "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
-    "Linked List Part 1",
+    "Linked List Part 2/Intersection of Two Linked Lists.md",
+    "Arrays Part 3/Search in a 2D Matrix.md",
+    "Linked List Part 1/Merge two sorted Linked Lists.md",
     "Arrays Part 4/Largest subarray with 0 sum.md",
     "Arrays Part 1/Sort Colors.md",
-    "Arrays Part 3/Search in a 2D Matrix.md",
+    "Linked List Part 1/Delete a given node.md",
+    "Linked List Part 2",
+    "Linked List Part 1/Add two numbers represented as Linked Lists.md",
+    "Linked List Part 1/Find the middle of LinkedList.md",
+    "Linked List Part 1/Remove N-th node from the end of a Linked List.md",
+    "Linked List Part 1/Reverse a Linked List.md",
+    "Linked List Part 1",
     "Arrays Part 4/Subarray with given XOR.md",
     "Arrays Part 2/Inversion of Array.md",
     "Arrays Part 4/Longest Consecutive Sequence.md",
@@ -279,7 +295,6 @@
     "Arrays Part 3/Grid Unique Paths.md",
     "Images/robot_maze.png",
     "Arrays Part 3/Majority Element.md",
-    "Arrays Part 3/Majority Element II.md",
     "Arrays Part 3",
     "Images/img3.png",
     "Images/img2.png",
@@ -289,7 +304,6 @@
     "Ink/Drawing",
     "Ink/Writing/2025.5.12 - 0.06am.writing",
     "Ink/Writing/2025.5.12 - 0.05am.writing",
-    "Ink/Writing",
     "Images/img1.png"
   ]
 }

@@ -25,7 +25,7 @@ Given `head`, the head of a linked list, determine if the linked list has a cyc
 - If there's a cycle, the fast pointer will eventually catch up to the slow pointer
 - If there's no cycle, the fast pointer will reach the end (null)
 
-Proof - [[Find the Duplicate Number]]
+[Proof](https://github.com/aagamjain04/Striver-DSA-191/blob/main/Arrays%20Part%202/Find%20the%20Duplicate%20Number.md#approach-3)
 
 ``` cpp
 bool hasCycle(ListNode *head) {

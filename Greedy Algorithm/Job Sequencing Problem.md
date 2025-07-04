@@ -33,13 +33,11 @@ Explanation: Job1 and Job3 can be done with maximum profit of 127 (100+27).
  - For each job, find the latest available time slot before or at its deadline
 
 #### Logic :
-- Sort the jobs in descending order of profit. 
+- Sort the jobs in descending order of profit.
 - If the maximum deadline is x, make an array of size x .Each array index is set to 0 initially as no jobs have been performed yet.
 - For every job check if it can be performed on its last day.
-
-- If possible mark that index  and add the profit to our answer. 
+- If possible mark that index  and add the profit to our answer.
 - If not possible, loop through the previous indexes until an empty slot is found.
-
 
 #### Code :
 

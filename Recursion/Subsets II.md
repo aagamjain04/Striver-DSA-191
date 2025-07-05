@@ -35,6 +35,15 @@ void recur(int i,vector<int> &nums, vector<int> &temp, vector<vector<int>> &res)
     }
 }
 
+vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+	
+	sort(nums.begin(),nums.end());
+
+	vector<int> temp;
+	vector<vector<int>> res;
+	recur(0,nums,temp,res);
+	return res;
+}
 ```
 
 

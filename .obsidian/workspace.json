@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greedy Algorithm/Fractional Knapsack.md",
+                "file": "Greedy Algorithm/Find minimum number of coins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fractional Knapsack"
+              "title": "Find minimum number of coins"
             }
           }
         ],
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "627178ac1d7eadfa",
@@ -208,8 +209,9 @@
   },
   "active": "66e0ef5b08b36d0e",
   "lastOpenFiles": [
-    "Greedy Algorithm/Minimum Platforms.md",
     "Greedy Algorithm/Fractional Knapsack.md",
+    "Greedy Algorithm/Find minimum number of coins.md",
+    "Greedy Algorithm/Minimum Platforms.md",
     "Greedy Algorithm/Job Sequencing Problem.md",
     "Greedy Algorithm/N meetings in one room.md",
     "Linked List and Arrays/Trapping Rain Water.md",
@@ -240,7 +242,6 @@
     "Arrays Part 2/_Index_of_Arrays Part 2.md",
     "Striver DSA 191.md",
     "Arrays Part 2/Arrays Part 2.md",
-    "Arrays Part 1/Best Time to Buy and Sell.md",
     "Linked List and Arrays",
     "Linked List Part 2",
     "Linked List Part 1",

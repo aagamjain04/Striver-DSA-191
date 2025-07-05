@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion/Combination Sum.md",
+                "file": "Recursion/Combination Sum II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combination Sum"
+              "title": "Combination Sum II"
             }
           }
         ],
@@ -208,9 +208,10 @@
   },
   "active": "66e0ef5b08b36d0e",
   "lastOpenFiles": [
+    "Recursion/Combination Sum I.md",
+    "Recursion/Combination Sum II.md",
     "Recursion/Subsets II.md",
     "Recursion/Subset Sum.md",
-    "Recursion/Combination Sum.md",
     "Greedy Algorithm/Assign Cookies.md",
     "Recursion",
     "Greedy Algorithm/Find minimum number of coins.md",
@@ -239,7 +240,6 @@
     "Arrays Part 1/Arrays Part 1.md",
     "Arrays Part 1/_Index_of_Arrays Part 1.md",
     "_Index_of_Striver DSA 191.md",
-    "Linked List Part 2/Check if the given Linked List is Palindrome.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",

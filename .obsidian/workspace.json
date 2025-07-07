@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion/Palindrome Partitioning.md",
+                "file": "Recursion/Find  Kth Permutation Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palindrome Partitioning"
+              "title": "Find  Kth Permutation Sequence"
             }
           }
         ],
@@ -208,8 +208,9 @@
   },
   "active": "66e0ef5b08b36d0e",
   "lastOpenFiles": [
-    "Recursion/Combination Sum II.md",
     "Recursion/Palindrome Partitioning.md",
+    "Recursion/Find  Kth Permutation Sequence.md",
+    "Recursion/Combination Sum II.md",
     "Recursion/Combination Sum I.md",
     "Recursion/Subsets II.md",
     "Recursion/Subset Sum.md",
@@ -239,7 +240,6 @@
     "Arrays Part 2/Merge Intervals.md",
     "Arrays Part 1/Sort Colors.md",
     "Arrays Part 1/Arrays Part 1.md",
-    "Arrays Part 1/_Index_of_Arrays Part 1.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",

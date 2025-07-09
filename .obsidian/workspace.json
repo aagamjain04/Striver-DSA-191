@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion/Find  Kth Permutation Sequence.md",
+                "file": "Recursion and Backtracking/Print All Permutation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find  Kth Permutation Sequence"
+              "title": "Print All Permutation"
             }
           }
         ],
@@ -208,8 +208,10 @@
   },
   "active": "66e0ef5b08b36d0e",
   "lastOpenFiles": [
+    "Recursion/Find Kth Permutation Sequence.md",
+    "Recursion and Backtracking/Print All Permutation.md",
+    "Recursion and Backtracking",
     "Recursion/Palindrome Partitioning.md",
-    "Recursion/Find  Kth Permutation Sequence.md",
     "Recursion/Combination Sum II.md",
     "Recursion/Combination Sum I.md",
     "Recursion/Subsets II.md",
@@ -239,7 +241,6 @@
     "Arrays Part 2/Find the Duplicate Number.md",
     "Arrays Part 2/Merge Intervals.md",
     "Arrays Part 1/Sort Colors.md",
-    "Arrays Part 1/Arrays Part 1.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",
@@ -248,7 +249,6 @@
     "Images/4sum.png",
     "Arrays Part 4",
     "Images/robot_maze.png",
-    "Arrays Part 3",
     "Images/img3.png",
     "Images/img1.png"
   ]

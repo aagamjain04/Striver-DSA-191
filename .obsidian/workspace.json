@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked List and Arrays/3Sum.md",
+                "file": "Recursion and Backtracking/N-Queens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Sum"
+              "title": "N-Queens"
             }
           },
           {
@@ -39,18 +39,15 @@
             "id": "66e0ef5b08b36d0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Recursion and Backtracking/Print All Permutation.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/nqueen3.png"
               },
-              "icon": "lucide-file",
-              "title": "Print All Permutation"
+              "icon": "lucide-image",
+              "title": "nqueen3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "3sum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,10 +203,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "66e0ef5b08b36d0e",
+  "active": "174621c8018b2047",
   "lastOpenFiles": [
-    "Recursion/Find Kth Permutation Sequence.md",
+    "Images/nqueen2.png",
+    "Images/img4.png",
+    "Images/nqueen1.png",
+    "Recursion and Backtracking/N-Queens.md",
+    "Linked List and Arrays/3Sum.md",
+    "Images/nqueen3.png",
+    "Pasted image 20250711235947.png",
+    "Images/3sum.png",
     "Recursion and Backtracking/Print All Permutation.md",
+    "Recursion/Find Kth Permutation Sequence.md",
     "Recursion and Backtracking",
     "Recursion/Palindrome Partitioning.md",
     "Recursion/Combination Sum II.md",
@@ -231,16 +236,11 @@
     "Linked List and Arrays/Remove Duplicates from Sorted Array.md",
     "Linked List and Arrays/Rotate List.md",
     "Linked List and Arrays/Copy List with Random Pointer.md",
-    "Linked List and Arrays/3Sum.md",
     "readme.md",
-    "Images/3sum.png",
-    "Images/img4.png",
     "Images/img2.png",
     "Linked List Part 2/Reverse Linked List in groups of Size K.md",
     "Arrays Part 4/4Sum.md",
     "Arrays Part 2/Find the Duplicate Number.md",
-    "Arrays Part 2/Merge Intervals.md",
-    "Arrays Part 1/Sort Colors.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",
@@ -249,7 +249,6 @@
     "Images/4sum.png",
     "Arrays Part 4",
     "Images/robot_maze.png",
-    "Images/img3.png",
-    "Images/img1.png"
+    "Images/img3.png"
   ]
 }

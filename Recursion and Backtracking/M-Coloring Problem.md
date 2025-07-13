@@ -76,6 +76,7 @@ bool graphColoring(int v, vector<vector<int>> &edges, int m) {
 
 
 > `Time Complexity` : O(m^v) where each vertex can be colored in `m` ways
+> 
 > `Space Complexity` : `O(v)` for recursion stack and color array
 
 ---

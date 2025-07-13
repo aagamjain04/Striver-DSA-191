@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Backtracking/Sudoku Solver.md",
+                "file": "Recursion and Backtracking/M-Coloring Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sudoku Solver"
+              "title": "M-Coloring Problem"
             }
           },
           {
@@ -205,8 +205,9 @@
   },
   "active": "174621c8018b2047",
   "lastOpenFiles": [
-    "Recursion and Backtracking/Print All Permutation.md",
     "Recursion and Backtracking/Sudoku Solver.md",
+    "Recursion and Backtracking/M-Coloring Problem.md",
+    "Recursion and Backtracking/Print All Permutation.md",
     "Recursion and Backtracking/N-Queens.md",
     "Images/nqueen2.png",
     "Images/img4.png",
@@ -241,7 +242,6 @@
     "Images/img2.png",
     "Linked List Part 2/Reverse Linked List in groups of Size K.md",
     "Arrays Part 4/4Sum.md",
-    "Arrays Part 2/Find the Duplicate Number.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",

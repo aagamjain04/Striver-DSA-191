@@ -6,6 +6,20 @@ Your task is to determine whether it is possible to color the graph using at m
 
 **Note:** The graph is indexed with 0-based indexing.
 
+### Example : 
+
+```
+Input: V = 4, edges[][] = [[0, 1], [1, 3], [2, 3], [3, 0], [0, 2]], m = 3
+Output: true
+Explanation: It is possible to color the given graph using 3 colors, for example, one of the possible ways vertices can be colored as follows:  
+
+Vertex 0: Color 1
+Vertex 1: Color 2
+Vertex 2: Color 2
+Vertex 3: Color 3
+```
+
+![img](../Images/mcolouring.png)
 ### Approach 1 :
 
 - This solution uses **backtracking** with **depth-first search (DFS)** to systematically try different color assignments.

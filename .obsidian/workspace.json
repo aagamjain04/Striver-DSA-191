@@ -205,10 +205,11 @@
   },
   "active": "174621c8018b2047",
   "lastOpenFiles": [
-    "Recursion and Backtracking/Sudoku Solver.md",
-    "Recursion and Backtracking/M-Coloring Problem.md",
-    "Recursion and Backtracking/Print All Permutation.md",
     "Recursion and Backtracking/N-Queens.md",
+    "Recursion and Backtracking/M-Coloring Problem.md",
+    "Images/mcolouring.png",
+    "Recursion and Backtracking/Sudoku Solver.md",
+    "Recursion and Backtracking/Print All Permutation.md",
     "Images/nqueen2.png",
     "Images/img4.png",
     "Images/nqueen1.png",
@@ -241,7 +242,6 @@
     "readme.md",
     "Images/img2.png",
     "Linked List Part 2/Reverse Linked List in groups of Size K.md",
-    "Arrays Part 4/4Sum.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",
@@ -249,7 +249,6 @@
     "Linked List Part 1",
     "Images/4sum.png",
     "Arrays Part 4",
-    "Images/robot_maze.png",
-    "Images/img3.png"
+    "Images/robot_maze.png"
   ]
 }

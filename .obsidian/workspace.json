@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Backtracking/Print All Permutation.md",
+                "file": "Recursion and Backtracking/Rat in a Maze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Print All Permutation"
+              "title": "Rat in a Maze"
             }
           },
           {
@@ -205,11 +205,12 @@
   },
   "active": "174621c8018b2047",
   "lastOpenFiles": [
+    "Recursion and Backtracking/Print All Permutation.md",
+    "Recursion and Backtracking/Rat in a Maze.md",
     "Recursion and Backtracking/N-Queens.md",
     "Recursion and Backtracking/Sudoku Solver.md",
     "Recursion and Backtracking/M-Coloring Problem.md",
     "Images/mcolouring.png",
-    "Recursion and Backtracking/Print All Permutation.md",
     "Images/nqueen2.png",
     "Images/img4.png",
     "Images/nqueen1.png",

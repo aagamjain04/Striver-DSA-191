@@ -31,7 +31,7 @@ Output: DDRDRR DRDDRR
 #### Code :
 
 ``` cpp
-~class Solution {
+class Solution {
   public:
   
     int x[4] = {1, -1, 0, 0};

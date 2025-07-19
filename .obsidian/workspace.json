@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion and Backtracking/Rat in a Maze.md",
+                "file": "Recursion and Backtracking/Word Break II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rat in a Maze"
+              "title": "Word Break II"
             }
           },
           {
@@ -206,6 +206,7 @@
   "active": "174621c8018b2047",
   "lastOpenFiles": [
     "Recursion and Backtracking/Print All Permutation.md",
+    "Recursion and Backtracking/Word Break II.md",
     "Recursion and Backtracking/Rat in a Maze.md",
     "Recursion and Backtracking/N-Queens.md",
     "Recursion and Backtracking/Sudoku Solver.md",
@@ -242,7 +243,6 @@
     "Linked List and Arrays/Copy List with Random Pointer.md",
     "readme.md",
     "Images/img2.png",
-    "Linked List Part 2/Reverse Linked List in groups of Size K.md",
     "Striver DSA 191/Arrays Part 1",
     "Striver DSA 191",
     "Linked List and Arrays",

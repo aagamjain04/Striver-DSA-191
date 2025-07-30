@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search/Single Element in a Sorted Array.md",
+                "file": "Binary Search/Search in Rotated Sorted Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Single Element in a Sorted Array"
+              "title": "Search in Rotated Sorted Array"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binary sea",
+                "query": "mcol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,10 +178,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bd630c43028a487c",
+  "active": "01225285b92304a7",
   "lastOpenFiles": [
-    "Binary Search/Median of Row Wise Sorted Matrix.md",
+    "Images/rotatedarray.png",
     "Binary Search/Single Element in a Sorted Array.md",
+    "Binary Search/Search in Rotated Sorted Array.md",
+    "Binary Search/Median of Row Wise Sorted Matrix.md",
     "Arrays Part 3/Search in a 2D Matrix.md",
     "Binary Search/Nth Root of an Integer.md",
     "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
@@ -213,8 +216,6 @@
     "Greedy Algorithm/Fractional Knapsack.md",
     "Greedy Algorithm/Minimum Platforms.md",
     "Greedy Algorithm/Job Sequencing Problem.md",
-    "Greedy Algorithm/N meetings in one room.md",
-    "Linked List and Arrays/Trapping Rain Water.md",
     "Greedy",
     "Greedy Algorithm",
     "Images/img2.png",

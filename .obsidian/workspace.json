@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search/Median of Row Wise Sorted Matrix.md",
+                "file": "Binary Search/Single Element in a Sorted Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Median of Row Wise Sorted Matrix"
+              "title": "Single Element in a Sorted Array"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Binary Search/Nth Root of an Integer.md",
     "Binary Search/Median of Row Wise Sorted Matrix.md",
+    "Binary Search/Single Element in a Sorted Array.md",
     "Arrays Part 3/Search in a 2D Matrix.md",
+    "Binary Search/Nth Root of an Integer.md",
     "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
     "Recursion/Find Kth Permutation Sequence.md",
     "Recursion and Backtracking/M-Coloring Problem.md",
@@ -214,7 +215,6 @@
     "Greedy Algorithm/Job Sequencing Problem.md",
     "Greedy Algorithm/N meetings in one room.md",
     "Linked List and Arrays/Trapping Rain Water.md",
-    "Linked List and Arrays/Max Consecutive Ones.md",
     "Greedy",
     "Greedy Algorithm",
     "Images/img2.png",

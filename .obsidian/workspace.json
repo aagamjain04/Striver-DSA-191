@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search/Allocate Minimum Number of Pages.md",
+                "file": "Binary Search/Aggressive Cows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allocate Minimum Number of Pages"
+              "title": "Aggressive Cows"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Binary Search/K-th Element of two sorted arrays.md",
     "Binary Search/Allocate Minimum Number of Pages.md",
+    "Binary Search/Aggressive Cows.md",
+    "Binary Search/K-th Element of two sorted arrays.md",
     "Binary Search/Median of Two Sorted Arrays.md",
     "Binary Search/Single Element in a Sorted Array.md",
     "Binary Search/Search in Rotated Sorted Array.md",
@@ -215,7 +216,6 @@
     "Greedy Algorithm/Assign Cookies.md",
     "Recursion",
     "Greedy Algorithm/Find minimum number of coins.md",
-    "Greedy Algorithm/Fractional Knapsack.md",
     "Greedy",
     "Greedy Algorithm",
     "Images/img2.png",

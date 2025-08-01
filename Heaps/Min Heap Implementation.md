@@ -64,6 +64,11 @@ T(n) < 2n ⇒ O(n)
 ```
 
 
+####  STL provides:
+
+- `priority_queue<int>` → Max Heap
+    
+- `priority_queue<int, vector<int>, greater<int>>` → Min Heap
 #### Code :
 
 ``` cpp

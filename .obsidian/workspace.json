@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heaps/Min Heap Implementation.md",
+                "file": "Heaps/Kth Largest Element in an Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Min Heap Implementation"
+              "title": "Kth Largest Element in an Array"
             }
           }
         ]
@@ -179,10 +179,12 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Heaps/Min Heap Implementation.md",
-    "Heaps",
     "Binary Search/Aggressive Cows.md",
+    "Heaps/Kth Largest Element in an Array.md",
+    "Heaps/Kth Largest Element in an Array.md",
+    "Heaps/Min Heap Implementation.md",
+    "Untitled.md",
+    "Heaps",
     "Binary Search/Allocate Minimum Number of Pages.md",
     "Binary Search/K-th Element of two sorted arrays.md",
     "Binary Search/Median of Two Sorted Arrays.md",
@@ -214,8 +216,6 @@
     "Recursion/Palindrome Partitioning.md",
     "Recursion/Combination Sum II.md",
     "Recursion/Combination Sum I.md",
-    "Recursion/Subsets II.md",
-    "Recursion/Subset Sum.md",
     "Recursion",
     "Greedy",
     "Greedy Algorithm",

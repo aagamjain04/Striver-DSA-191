@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heaps/Merge k Sorted Lists.md",
+                "file": "Heaps/Top K Frequent Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge k Sorted Lists"
+              "title": "Top K Frequent Elements"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
+    "Heaps/Merge k Sorted Lists.md",
+    "Heaps/Top K Frequent Elements.md",
     "Heaps/Maximum Sum Combination.md",
     "Heaps/Find Median from Data Stream.md",
-    "Heaps/Merge k Sorted Lists.md",
     "Heaps/Min Heap Implementation.md",
     "Heaps/Kth Largest Element in an Array.md",
     "Binary Search/Aggressive Cows.md",
@@ -215,7 +216,6 @@
     "Pasted image 20250711235947.png",
     "Images/3sum.png",
     "Recursion and Backtracking",
-    "Recursion/Palindrome Partitioning.md",
     "Recursion",
     "Greedy",
     "Greedy Algorithm",

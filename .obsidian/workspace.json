@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heaps/Find Median from Data Stream.md",
+                "file": "Heaps/Merge k Sorted Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find Median from Data Stream"
+              "title": "Merge k Sorted Lists"
             }
           }
         ]
@@ -181,8 +181,9 @@
   "lastOpenFiles": [
     "Heaps/Maximum Sum Combination.md",
     "Heaps/Find Median from Data Stream.md",
-    "Heaps/Kth Largest Element in an Array.md",
+    "Heaps/Merge k Sorted Lists.md",
     "Heaps/Min Heap Implementation.md",
+    "Heaps/Kth Largest Element in an Array.md",
     "Binary Search/Aggressive Cows.md",
     "Untitled.md",
     "Heaps",
@@ -215,7 +216,6 @@
     "Images/3sum.png",
     "Recursion and Backtracking",
     "Recursion/Palindrome Partitioning.md",
-    "Recursion/Combination Sum II.md",
     "Recursion",
     "Greedy",
     "Greedy Algorithm",

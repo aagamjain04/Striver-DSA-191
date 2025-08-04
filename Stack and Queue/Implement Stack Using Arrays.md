@@ -10,6 +10,8 @@
 | **isEmpty** | O(1)            | Check if `top == -1`.                            |
 | isFull      | O(1)            | Check if `top == capacity-1`                     |
 | **Resize**  | O(n)            | Copy elements to a new array of double capacity. |
+
+
 `Amortized time complexity is a way to analyze the average cost of operations over a sequence of operations, rather than looking at the worst-case cost of a single operation.`
 
 ### Code : 

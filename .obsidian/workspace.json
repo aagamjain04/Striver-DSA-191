@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue/Implement Stack Using Arrays.md",
+                "file": "Stack and Queue/Implement Stack Using Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implement Stack Using Arrays"
+              "title": "Implement Stack Using Queue"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Stack and Queue/Implement Queue using Arrays.md",
+    "Recursion/Subsets II.md",
+    "Stack and Queue/Implement Stack Using Queue.md",
     "Stack and Queue/Implement Stack Using Arrays.md",
+    "Stack and Queue/Implement Queue using Arrays.md",
     "Heaps/Top K Frequent Elements.md",
     "Stack and Queue",
     "Heaps/Merge k Sorted Lists.md",
@@ -207,8 +209,6 @@
     "Recursion and Backtracking/Word Break II.md",
     "Arrays Part 3/Implement Pow(x,n).md",
     "Binary Search",
-    "Recursion and Backtracking/Print All Permutation.md",
-    "Recursion and Backtracking/N-Queens.md",
     "Images/mcolouring.png",
     "Images/nqueen2.png",
     "Images/img4.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue/Implement Queue Using Stack.md",
+                "file": "Stack and Queue/Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implement Queue Using Stack"
+              "title": "Valid Parentheses"
             }
           }
         ]
@@ -179,11 +179,13 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
+    "Recursion/Subset Sum.md",
+    "Stack and Queue/Valid Parentheses.md",
+    "Stack and Queue/Implement Queue using Arrays.md",
     "Stack and Queue/Implement Stack Using Queue.md",
     "Stack and Queue/Implement Queue Using Stack.md",
     "Recursion/Subsets II.md",
     "Stack and Queue/Implement Stack Using Arrays.md",
-    "Stack and Queue/Implement Queue using Arrays.md",
     "Heaps/Top K Frequent Elements.md",
     "Stack and Queue",
     "Heaps/Merge k Sorted Lists.md",
@@ -206,8 +208,6 @@
     "Arrays Part 4/Length of Longest Substring without any Repeating Character.md",
     "Recursion/Find Kth Permutation Sequence.md",
     "Recursion and Backtracking/M-Coloring Problem.md",
-    "Recursion and Backtracking/Rat in a Maze.md",
-    "Recursion and Backtracking/Word Break II.md",
     "Binary Search",
     "Images/mcolouring.png",
     "Images/nqueen2.png",

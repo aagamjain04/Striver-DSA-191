@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue/Implement Stack Using Queue.md",
+                "file": "Stack and Queue/Implement Queue Using Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implement Stack Using Queue"
+              "title": "Implement Queue Using Stack"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Recursion/Subsets II.md",
     "Stack and Queue/Implement Stack Using Queue.md",
+    "Stack and Queue/Implement Queue Using Stack.md",
+    "Recursion/Subsets II.md",
     "Stack and Queue/Implement Stack Using Arrays.md",
     "Stack and Queue/Implement Queue using Arrays.md",
     "Heaps/Top K Frequent Elements.md",
@@ -207,7 +208,6 @@
     "Recursion and Backtracking/M-Coloring Problem.md",
     "Recursion and Backtracking/Rat in a Maze.md",
     "Recursion and Backtracking/Word Break II.md",
-    "Arrays Part 3/Implement Pow(x,n).md",
     "Binary Search",
     "Images/mcolouring.png",
     "Images/nqueen2.png",

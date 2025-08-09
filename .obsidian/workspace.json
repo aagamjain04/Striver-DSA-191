@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue Part 2/Sliding Window Maximum.md",
+                "file": "Stack and Queue Part 2/Min Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window Maximum"
+              "title": "Min Stack"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
     "Stack and Queue Part 2/Sliding Window Maximum.md",
+    "Stack and Queue Part 2/Min Stack.md",
+    "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
     "Binary Search/Search in Rotated Sorted Array.md",
     "Arrays Part 2/Rotate Matrix.md",
     "Images/histogram.jpg",
@@ -208,7 +209,6 @@
     "Heaps",
     "Binary Search/Allocate Minimum Number of Pages.md",
     "Binary Search/K-th Element of two sorted arrays.md",
-    "Binary Search/Median of Two Sorted Arrays.md",
     "Images/rotatedarray.png",
     "Binary Search",
     "Images/mcolouring.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue Part 2/LFU Cache.md",
+                "file": "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFU Cache"
+              "title": "Largest Rectangle in Histogram"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mcol",
+                "query": "rotate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,15 +179,19 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Stack and Queue Part 2/LRU Cache.md",
-    "Stack and Queue Part 2/LFU Cache.md",
+    "Binary Search/Search in Rotated Sorted Array.md",
+    "Arrays Part 2/Rotate Matrix.md",
+    "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
+    "Images/histogram.jpg",
     "Stack and Queue/Sort a Stack.md",
+    "Stack and Queue/Next Greater Element I.md",
+    "Stack and Queue/Valid Parentheses.md",
+    "Stack and Queue Part 2/LFU Cache.md",
+    "Stack and Queue Part 2/LRU Cache.md",
     "Stack and Queue/Implement Queue using Arrays.md",
     "Stack and Queue/Implement Stack Using Queue.md",
     "Stack and Queue/Implement Queue Using Stack.md",
     "Stack and Queue Part 2",
-    "Stack and Queue/Next Greater Element I.md",
-    "Stack and Queue/Valid Parentheses.md",
     "Recursion/Subset Sum.md",
     "Recursion/Subsets II.md",
     "Stack and Queue/Implement Stack Using Arrays.md",
@@ -205,10 +209,7 @@
     "Binary Search/K-th Element of two sorted arrays.md",
     "Binary Search/Median of Two Sorted Arrays.md",
     "Binary Search/Single Element in a Sorted Array.md",
-    "Binary Search/Search in Rotated Sorted Array.md",
     "Images/rotatedarray.png",
-    "Binary Search/Median of Row Wise Sorted Matrix.md",
-    "Arrays Part 3/Search in a 2D Matrix.md",
     "Binary Search",
     "Images/mcolouring.png",
     "Images/nqueen2.png",
@@ -223,7 +224,6 @@
     "Greedy Algorithm",
     "Images/img2.png",
     "Striver DSA 191/Arrays Part 1",
-    "Striver DSA 191",
-    "Images/4sum.png"
+    "Striver DSA 191"
   ]
 }

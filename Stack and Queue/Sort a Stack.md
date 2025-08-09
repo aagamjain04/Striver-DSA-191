@@ -25,7 +25,7 @@ Output stack (top first):  4 3 2 1
 
 ---
 
-### ## Approach 2 — Recursive (No Extra Stack)
+###  Approach 2 — Recursive (No Extra Stack)
 - Recursively pop all elements until the stack is empty.
 - Insert each popped element back into the stack in sorted order using a helper function.
 

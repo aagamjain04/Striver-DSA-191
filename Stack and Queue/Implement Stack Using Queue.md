@@ -2,7 +2,6 @@
 ### Problem Statement : 
 
 Implement a **Stack** using a single **Queue**.
-## Examples
 
 
 ### Approach 1 :

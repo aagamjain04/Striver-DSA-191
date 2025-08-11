@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue Part 2/Online Stock Span.md",
+                "file": "Stack and Queue Part 2/Max and Min of every window size.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online Stock Span"
+              "title": "Max and Min of every window size"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Stack and Queue Part 2/Sliding Window Maximum.md",
     "Stack and Queue Part 2/Online Stock Span.md",
+    "Stack and Queue Part 2/Max and Min of every window size.md",
+    "Stack and Queue Part 2/Sliding Window Maximum.md",
     "Stack and Queue Part 2/Rotting Oranges.md",
     "Stack and Queue Part 2/Min Stack.md",
     "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
@@ -207,7 +208,6 @@
     "Heaps/Min Heap Implementation.md",
     "Heaps/Kth Largest Element in an Array.md",
     "Binary Search/Aggressive Cows.md",
-    "Untitled.md",
     "Heaps",
     "Images/rotatedarray.png",
     "Binary Search",

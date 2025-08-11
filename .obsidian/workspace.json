@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue Part 2/Rotting Oranges.md",
+                "file": "Stack and Queue Part 2/Online Stock Span.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotting Oranges"
+              "title": "Online Stock Span"
             }
           }
         ]
@@ -180,8 +180,9 @@
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
     "Stack and Queue Part 2/Sliding Window Maximum.md",
-    "Stack and Queue Part 2/Min Stack.md",
+    "Stack and Queue Part 2/Online Stock Span.md",
     "Stack and Queue Part 2/Rotting Oranges.md",
+    "Stack and Queue Part 2/Min Stack.md",
     "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
     "Binary Search/Search in Rotated Sorted Array.md",
     "Arrays Part 2/Rotate Matrix.md",
@@ -208,7 +209,6 @@
     "Binary Search/Aggressive Cows.md",
     "Untitled.md",
     "Heaps",
-    "Binary Search/Allocate Minimum Number of Pages.md",
     "Images/rotatedarray.png",
     "Binary Search",
     "Images/mcolouring.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String/Roman To Integer.md",
+                "file": "String/String to Integer (atoi).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roman To Integer"
+              "title": "String to Integer (atoi)"
             }
           }
         ]
@@ -180,6 +180,7 @@
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
     "String/Longest Palindromic Substring.md",
+    "String/String to Integer (atoi).md",
     "String/Roman To Integer.md",
     "String/Reverse Words in a String.md",
     "Stack and Queue Part 2/Celebrity Problem.md",
@@ -208,7 +209,6 @@
     "Heaps/Top K Frequent Elements.md",
     "Stack and Queue",
     "Heaps/Merge k Sorted Lists.md",
-    "Heaps/Maximum Sum Combination.md",
     "Heaps",
     "Images/rotatedarray.png",
     "Binary Search",

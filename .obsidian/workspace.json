@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack and Queue Part 2/Celebrity Problem.md",
+                "file": "String/Reverse Words in a String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celebrity Problem"
+              "title": "Reverse Words in a String"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Stack and Queue Part 2/Sliding Window Maximum.md",
     "Stack and Queue Part 2/Celebrity Problem.md",
+    "String/Reverse Words in a String.md",
+    "String",
+    "Stack and Queue Part 2/Sliding Window Maximum.md",
     "Stack and Queue Part 2/Max and Min of every window size.md",
     "Stack and Queue Part 2/Online Stock Span.md",
     "Stack and Queue Part 2/Rotting Oranges.md",
@@ -207,7 +209,6 @@
     "Heaps/Maximum Sum Combination.md",
     "Heaps/Find Median from Data Stream.md",
     "Heaps/Min Heap Implementation.md",
-    "Heaps/Kth Largest Element in an Array.md",
     "Heaps",
     "Images/rotatedarray.png",
     "Binary Search",
@@ -223,7 +224,6 @@
     "Greedy",
     "Greedy Algorithm",
     "Images/img2.png",
-    "Striver DSA 191/Arrays Part 1",
-    "Striver DSA 191"
+    "Striver DSA 191/Arrays Part 1"
   ]
 }

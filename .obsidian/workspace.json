@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String/Reverse Words in a String.md",
+                "file": "String/Longest Palindromic Substring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Words in a String"
+              "title": "Longest Palindromic Substring"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "Stack and Queue Part 2/Celebrity Problem.md",
     "String/Reverse Words in a String.md",
+    "String/Longest Palindromic Substring.md",
+    "Stack and Queue Part 2/Celebrity Problem.md",
     "String",
     "Stack and Queue Part 2/Sliding Window Maximum.md",
     "Stack and Queue Part 2/Max and Min of every window size.md",
@@ -208,7 +209,6 @@
     "Heaps/Merge k Sorted Lists.md",
     "Heaps/Maximum Sum Combination.md",
     "Heaps/Find Median from Data Stream.md",
-    "Heaps/Min Heap Implementation.md",
     "Heaps",
     "Images/rotatedarray.png",
     "Binary Search",

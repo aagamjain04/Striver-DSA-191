@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String/Repeated String Match.md",
+                "file": "String Part 2/KMP Algo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repeated String Match"
+              "title": "KMP Algo"
             }
           }
         ]
@@ -179,13 +179,15 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "String/Longest Common Prefix.md",
-    "String/Repeated String Match.md",
-    "Arrays Part 3/Implement Pow(x,n).md",
     "String/Longest Palindromic Substring.md",
+    "String Part 2/KMP Algo.md",
+    "String/Rabin Karp.md",
+    "String/Repeated String Match.md",
+    "String Part 2",
+    "String/Longest Common Prefix.md",
+    "Arrays Part 3/Implement Pow(x,n).md",
     "String/String to Integer (atoi).md",
     "String/Roman To Integer.md",
-    "String/Reverse Words in a String.md",
     "Stack and Queue Part 2/Celebrity Problem.md",
     "String",
     "Stack and Queue Part 2/Sliding Window Maximum.md",
@@ -207,7 +209,6 @@
     "Stack and Queue/Implement Queue Using Stack.md",
     "Stack and Queue Part 2",
     "Recursion/Subset Sum.md",
-    "Recursion/Subsets II.md",
     "Stack and Queue",
     "Heaps",
     "Images/rotatedarray.png",
@@ -223,7 +224,6 @@
     "Recursion",
     "Greedy",
     "Greedy Algorithm",
-    "Images/img2.png",
-    "Striver DSA 191/Arrays Part 1"
+    "Images/img2.png"
   ]
 }

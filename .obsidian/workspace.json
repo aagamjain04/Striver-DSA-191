@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String Part 2/KMP Algo.md",
+                "file": "String Part 2/Palindrome by Front Insertion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KMP Algo"
+              "title": "Palindrome by Front Insertion"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "String/Longest Palindromic Substring.md",
     "String Part 2/KMP Algo.md",
+    "String Part 2/Palindrome by Front Insertion.md",
+    "String/Longest Palindromic Substring.md",
     "String/Rabin Karp.md",
     "String/Repeated String Match.md",
     "String Part 2",
@@ -208,7 +209,6 @@
     "Stack and Queue/Implement Stack Using Queue.md",
     "Stack and Queue/Implement Queue Using Stack.md",
     "Stack and Queue Part 2",
-    "Recursion/Subset Sum.md",
     "Stack and Queue",
     "Heaps",
     "Images/rotatedarray.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String/Longest Common Prefix.md",
+                "file": "String/Repeated String Match.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Common Prefix"
+              "title": "Repeated String Match"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rotate",
+                "query": "pow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +179,10 @@
   },
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
-    "String/Longest Palindromic Substring.md",
     "String/Longest Common Prefix.md",
+    "String/Repeated String Match.md",
+    "Arrays Part 3/Implement Pow(x,n).md",
+    "String/Longest Palindromic Substring.md",
     "String/String to Integer (atoi).md",
     "String/Roman To Integer.md",
     "String/Reverse Words in a String.md",
@@ -206,8 +208,6 @@
     "Stack and Queue Part 2",
     "Recursion/Subset Sum.md",
     "Recursion/Subsets II.md",
-    "Stack and Queue/Implement Stack Using Arrays.md",
-    "Heaps/Top K Frequent Elements.md",
     "Stack and Queue",
     "Heaps",
     "Images/rotatedarray.png",

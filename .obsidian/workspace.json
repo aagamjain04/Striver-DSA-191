@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String Part 2/Count and Say.md",
+                "file": "String Part 2/Compare Version Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count and Say"
+              "title": "Compare Version Numbers"
             }
           }
         ]
@@ -180,6 +180,7 @@
   "active": "bd630c43028a487c",
   "lastOpenFiles": [
     "String Part 2/Valid Anagram.md",
+    "String Part 2/Compare Version Numbers.md",
     "String Part 2/Count and Say.md",
     "String Part 2/Palindrome by Front Insertion.md",
     "String Part 2/KMP Algo.md",
@@ -207,7 +208,6 @@
     "Stack and Queue/Valid Parentheses.md",
     "Stack and Queue Part 2/LFU Cache.md",
     "Stack and Queue Part 2/LRU Cache.md",
-    "Stack and Queue/Implement Queue using Arrays.md",
     "Stack and Queue Part 2",
     "Stack and Queue",
     "Heaps",

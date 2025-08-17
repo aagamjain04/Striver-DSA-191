@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String Part 2/Compare Version Numbers.md",
+                "file": "Binary Tree/Preorder Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compare Version Numbers"
+              "title": "Preorder Traversal"
             }
           }
         ]
@@ -179,10 +179,15 @@
   },
   "active": "0ee23eb2a7026da9",
   "lastOpenFiles": [
+    "Binary Tree/Postorder Traversal.md",
+    "Binary Tree/Preorder Traversal.md",
     "Binary Tree/Inorder Traversal.md",
+    "Binary Tree 1/Preorder Traversal.md",
+    "Binary Tree 1/Inorder Traversal.md",
+    "Binary Tree 1",
+    "String Part 2/Compare Version Numbers.md",
     "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
     "Images/inordermorris.png",
-    "String Part 2/Compare Version Numbers.md",
     "Binary Tree/Untitled",
     "Binary Tree",
     "String Part 2/Valid Anagram.md",
@@ -207,9 +212,6 @@
     "Binary Search/Search in Rotated Sorted Array.md",
     "Arrays Part 2/Rotate Matrix.md",
     "Images/histogram.jpg",
-    "Stack and Queue/Sort a Stack.md",
-    "Stack and Queue/Next Greater Element I.md",
-    "Stack and Queue/Valid Parentheses.md",
     "Stack and Queue Part 2",
     "Stack and Queue",
     "Heaps",
@@ -222,7 +224,6 @@
     "Images/nqueen3.png",
     "Pasted image 20250711235947.png",
     "Images/3sum.png",
-    "Recursion and Backtracking",
-    "Recursion"
+    "Recursion and Backtracking"
   ]
 }

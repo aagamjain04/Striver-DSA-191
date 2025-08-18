@@ -13,9 +13,9 @@ Given the root of a binary tree, return an array representing the **bottom view
 
 `Horizontal Distances:
 - hd(-2): 5
-- hd(-1): 10
-- hd(0): 3
-- hd(1): 14
+- hd(-1): 8
+- hd(0): 34
+- hd(1): 22
 - hd(2): 25
 Output - 5 8 34 22 25
 `

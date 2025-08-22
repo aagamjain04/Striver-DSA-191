@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Tree Part 2/Same Tree.md",
+                "file": "Binary Tree Part 2/Binary Tree Zigzag Level Order Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Same Tree"
+              "title": "Binary Tree Zigzag Level Order Traversal"
             }
           }
         ]
@@ -180,6 +180,7 @@
   "active": "0ee23eb2a7026da9",
   "lastOpenFiles": [
     "Binary Tree Part 2/LCA of a Binary Tree.md",
+    "Binary Tree Part 2/Binary Tree Zigzag Level Order Traversal.md",
     "Binary Tree Part 2/Same Tree.md",
     "Binary Tree Part 2/Balanced Binary Tree.md",
     "Binary Tree Part 2/Diameter of Binary Tree.md",
@@ -211,7 +212,6 @@
     "String Part 2/KMP Algo.md",
     "String/Longest Palindromic Substring.md",
     "String/Rabin Karp.md",
-    "String/Repeated String Match.md",
     "String Part 2",
     "String",
     "Images/histogram.jpg",

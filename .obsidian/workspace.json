@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Tree/Maximum Width of Binary Tree.md",
+                "file": "Binary Tree Part 2/Binary Tree Level Order Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Width of Binary Tree"
+              "title": "Binary Tree Level Order Traversal"
             }
           }
         ]
@@ -179,16 +179,18 @@
   },
   "active": "0ee23eb2a7026da9",
   "lastOpenFiles": [
-    "Binary Tree/Root to node path in binary tree.md",
     "Binary Tree/Maximum Width of Binary Tree.md",
-    "Binary Tree/Vertical Order Traversal of a Binary Tree.md",
-    "Binary Tree/Top View of Binary Tree.md",
-    "Binary Tree/Bottom View of Binary Tree.md",
-    "Images/bottomview.png",
+    "Binary Tree Part 2/Binary Tree Level Order Traversal.md",
     "Binary Tree/Left View of Binary Tree.md",
-    "Images/leftview.png",
+    "Binary Tree Part 2",
+    "Binary Tree/Bottom View of Binary Tree.md",
     "Binary Tree/Preorder Traversal.md",
+    "Images/leftview.png",
     "Binary Tree/Postorder Traversal.md",
+    "Binary Tree/Top View of Binary Tree.md",
+    "Binary Tree/Vertical Order Traversal of a Binary Tree.md",
+    "Binary Tree/Root to node path in binary tree.md",
+    "Images/bottomview.png",
     "Binary Tree/Inorder Traversal.md",
     "Binary Tree 1/Preorder Traversal.md",
     "Binary Tree 1/Inorder Traversal.md",
@@ -212,7 +214,6 @@
     "String/Roman To Integer.md",
     "Stack and Queue Part 2/Celebrity Problem.md",
     "String",
-    "Stack and Queue Part 2/Sliding Window Maximum.md",
     "Images/histogram.jpg",
     "Stack and Queue Part 2",
     "Stack and Queue",
@@ -223,7 +224,6 @@
     "Images/nqueen2.png",
     "Images/img4.png",
     "Images/nqueen1.png",
-    "Images/nqueen3.png",
-    "Recursion and Backtracking"
+    "Images/nqueen3.png"
   ]
 }

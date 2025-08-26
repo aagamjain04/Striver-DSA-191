@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b04db6672685512c",
+        "id": "a1030de78ce9a2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6592be22e2188d59",
+            "id": "1148f1299e4f7a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Tree Part 3/Flatten Binary Tree to Linked List.md",
+                "file": "Binary Search Tree/Populating Next Right Pointers in Each Node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flatten Binary Tree to Linked List"
+              "title": "Populating Next Right Pointers in Each Node"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "histo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,15 +177,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6592be22e2188d59",
+  "active": "1148f1299e4f7a70",
   "lastOpenFiles": [
-    "Binary Tree Part 3/Symmetric Tree.md",
+    "Images/img5.png",
+    "Binary Search Tree/Populating Next Right Pointers in Each Node.md",
+    "Binary Tree/Maximum Width of Binary Tree.md",
+    "Binary Tree Part 2/LCA of a Binary Tree.md",
+    "Binary Search Tree",
+    "Binary Search/Median of Row Wise Sorted Matrix.md",
     "Binary Tree Part 3/Flatten Binary Tree to Linked List.md",
+    "Binary Tree Part 3/Symmetric Tree.md",
     "Binary Tree Part 3/Construct Binary Tree from Inorder and Postorder Traversal.md",
     "Binary Tree Part 3/Construct Binary Tree from Preorder and Inorder Traversal.md",
     "Binary Tree Part 3/Binary Tree Maximum Path Sum.md",
     "Binary Tree Part 2/Tree Boundary Traversal.md",
-    "Binary Tree Part 2/LCA of a Binary Tree.md",
     "Binary Tree Part 2/Maximum Depth of Binary Tree.md",
     "Binary Tree Part 2/Binary Tree Level Order Traversal.md",
     "Images/btfrompreandin.png",
@@ -196,7 +201,6 @@
     "Binary Tree Part 2/Same Tree.md",
     "Binary Tree Part 2/Balanced Binary Tree.md",
     "Binary Tree Part 2/Diameter of Binary Tree.md",
-    "Binary Tree/Maximum Width of Binary Tree.md",
     "Binary Tree/Left View of Binary Tree.md",
     "Binary Tree Part 2",
     "Binary Tree/Preorder Traversal.md",
@@ -208,10 +212,7 @@
     "Images/bottomview.png",
     "Binary Tree/Inorder Traversal.md",
     "Binary Tree 1/Preorder Traversal.md",
-    "Binary Tree 1/Inorder Traversal.md",
     "Binary Tree 1",
-    "String Part 2/Compare Version Numbers.md",
-    "Stack and Queue Part 2/Largest Rectangle in Histogram.md",
     "Images/inordermorris.png",
     "Binary Tree/Untitled",
     "Binary Tree",
@@ -220,10 +221,8 @@
     "Images/histogram.jpg",
     "Stack and Queue Part 2",
     "Stack and Queue",
-    "Heaps",
     "Images/rotatedarray.png",
     "Images/mcolouring.png",
-    "Images/nqueen2.png",
-    "Images/img4.png"
+    "Images/nqueen2.png"
   ]
 }

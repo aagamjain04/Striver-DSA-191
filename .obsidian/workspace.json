@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Search Tree Part 2/Kth Smallest Element in a BST.md",
+                "file": "Binary Search Tree Part 2/Two Sum IV - Input is a BST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kth Smallest Element in a BST"
+              "title": "Two Sum IV - Input is a BST"
             }
           }
         ]
@@ -180,6 +180,7 @@
   "active": "68d7101e7dac7908",
   "lastOpenFiles": [
     "Binary Search Tree Part 2/Ceil in a BST.md",
+    "Binary Search Tree Part 2/Two Sum IV - Input is a BST.md",
     "Binary Search Tree Part 2/Kth Smallest Element in a BST.md",
     "Binary Search Tree Part 2/Floor in a BST.md",
     "Binary Search Tree/LCA of BST.md",
@@ -210,7 +211,6 @@
     "Binary Tree/Bottom View of Binary Tree.md",
     "Images/boundaryTraversal.png",
     "Binary Tree Part 2/Same Tree.md",
-    "Binary Tree Part 2/Balanced Binary Tree.md",
     "Binary Tree Part 2",
     "Images/leftview.png",
     "Images/bottomview.png",

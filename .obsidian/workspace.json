@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1030de78ce9a2a0",
+        "id": "f2647c214d2287dc",
         "type": "tabs",
         "children": [
           {
-            "id": "1148f1299e4f7a70",
+            "id": "68d7101e7dac7908",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Binary Search Tree/Inorder predecessor and successor in BST.md",
-                "bFile": "Binary Search Tree/Inorder predecessor and successor in BST.md",
-                "aRef": ""
+                "file": "Binary Search Tree Part 2/Ceil in a BST.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Inorder predecessor and successor in BST"
+              "icon": "lucide-file",
+              "title": "Ceil in a BST"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1148f1299e4f7a70",
+  "active": "68d7101e7dac7908",
   "lastOpenFiles": [
+    "Binary Search Tree Part 2/Ceil in a BST.md",
     "Binary Search Tree Part 2/Floor in a BST.md",
     "Binary Search Tree/LCA of BST.md",
     "Binary Search Tree/Inorder predecessor and successor in BST.md",
@@ -210,7 +211,6 @@
     "Binary Tree Part 2/Same Tree.md",
     "Binary Tree Part 2/Balanced Binary Tree.md",
     "Binary Tree Part 2/Diameter of Binary Tree.md",
-    "Binary Tree/Left View of Binary Tree.md",
     "Binary Tree Part 2",
     "Images/leftview.png",
     "Images/bottomview.png",

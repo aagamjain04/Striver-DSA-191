@@ -161,7 +161,7 @@ class Solution {
 ---
 
 ```
-α(V) is the inverse Ackermann function, which grows so slowly that for any realistic graph, it’s ≤ 4–5. Hence, Union-Find is practically linear time in edges.`"
+α(V) is the inverse Ackermann function, which grows so slowly that for any realistic graph, it’s ≤ 4–5. Hence, Union-Find is practically linear time in edges.
 ```
 
 ## 1. What is **α(V)?**

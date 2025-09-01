@@ -18,10 +18,7 @@ Add 9 → Heap [8,10,9], kth largest = 8.
 Add 4 → Heap [8,10,9], kth largest = 8.
 ```
 
-`
-
 ---
-
 
 ###  Approach 1 :
 

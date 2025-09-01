@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/DFS of Graph.md",
+                "file": "Graph/Cycle Detection in Undirected Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS of Graph"
+              "title": "Cycle Detection in Undirected Graph"
             }
           }
         ]
@@ -181,6 +181,7 @@
   "active": "b628ce06f597aa33",
   "lastOpenFiles": [
     "Graph/BFS of Graph.md",
+    "Graph/Cycle Detection in Undirected Graph.md",
     "Graph/DFS of Graph.md",
     "Greedy Algorithm/Assign Cookies.md",
     "Graph/Clone Graph.md",
@@ -209,7 +210,6 @@
     "Binary Search Tree/LCA of BST.md",
     "Binary Search Tree/Inorder predecessor and successor in BST.md",
     "Binary Search Tree Part 2",
-    "Binary Search Tree/Convert Sorted Array to Binary Search Tree.md",
     "Images/img5.png",
     "Binary Search Tree",
     "Images/btfrompreandin.png",

@@ -32,30 +32,32 @@ DFS starting from 0 → [0, 1, 2, 4, 3]
 #### Code :
 
 ``` cpp
-void dfs(int u,vector<int> &res,vector<vector<int>>& adj,vector<int> &vis){
-	
-	if(vis[u])
-	return;
-	vis[u] = 1;
-	res.push_back(u);
-	for(auto &v:adj[u]){
-		dfs(v,res,adj,vis);
+vector<int> bfsOfGraph(int V, vector<int> adj[]) {
+	vector<int> visited(V, 0), ans;
+	queue<int> q;
+
+	q.push(0);
+	visited[0] = 1;
+
+	while (!q.empty()) {
+		int u = q.front();
+		q.pop();
+		ans.push_back(u);
+
+		for (int neigh : adj[u]) {
+			if (!visited[neigh]) {
+				q.push(neigh);
+				visited[neigh] = 1; // mark visited when enqueued
+			}
+		}
 	}
+	return ans;
 }
 
-vector<int> dfs(vector<vector<int>>& adj) {
-	
-	int n =adj.size();
-	vector<int> res;
-	vector<int> vis(n);
-	dfs(0,res,adj,vis);
-	return res;
-	
-}
 ```
 
 
-> `Time Complexity` : O(V+E)
+> `Time Complexity` : O(V+E) (Each vertex visited once, each edge explored once.)
 > 
 > `Space Complexity` : O(V) recursion stack + visited arrray
 

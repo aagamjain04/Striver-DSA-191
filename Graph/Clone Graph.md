@@ -17,6 +17,10 @@
     - **Handle the neighbor** → add the cloned neighbor to current clone's neighbors list
 5. **Return the root clone**
 
+Note :
+Using `val` as key in the map works only if `val` is **unique** (not guaranteed in general).
+- Safer: use a map from `Node*` → `Node*`.
+- For given problem `val` is unique.
 #### Code :
 
 ``` cpp

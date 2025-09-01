@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Clone Graph.md",
+                "file": "Graph/DFS of Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clone Graph"
+              "title": "DFS of Graph"
             }
           }
         ]
@@ -181,6 +181,7 @@
   "active": "b628ce06f597aa33",
   "lastOpenFiles": [
     "Greedy Algorithm/Assign Cookies.md",
+    "Graph/DFS of Graph.md",
     "Graph/Clone Graph.md",
     "Binary Tree and Miscellaneous/Flood Fill.md",
     "Graph",
@@ -209,7 +210,6 @@
     "Binary Search Tree Part 2",
     "Binary Search Tree/Convert Sorted Array to Binary Search Tree.md",
     "Binary Search Tree/Construct Binary Search Tree from Preorder Traversal.md",
-    "2025-08-27.md",
     "Images/img5.png",
     "Binary Search Tree",
     "Images/btfrompreandin.png",

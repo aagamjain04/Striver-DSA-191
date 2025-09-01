@@ -21,7 +21,7 @@ Output : [3, 4, 4, 3]
 
 ###  Approach 1 :
 
-### Naive Approach (O(N * B))
+##### Naive Approach (O(N * B))
 - For each window, insert elements into a set to count distinct numbers.
 - Time complexity: **O(N * B)**
 

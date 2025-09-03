@@ -9,7 +9,6 @@ The graph is represented as a 2D vector `edges[][]`, where each entry `edges[i
 
 ### Approach 1 :
 
-- DFS
 - Traverse the graph using DFS.
 - A cycle exists if there is a path starting from a vertex that leads back to itself.
 - Use **DFS with 3 states** in `vis[]`:

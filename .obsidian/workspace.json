@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Topological Sort - BFS.md",
+                "file": "Graph/Number of Islands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topological Sort - BFS"
+              "title": "Number of Islands"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "b628ce06f597aa33",
   "lastOpenFiles": [
-    "Graph/Cycle Detection in Directed Graph.md",
     "Graph/Topological Sort - BFS.md",
+    "Graph/Number of Islands.md",
+    "Graph/Cycle Detection in Directed Graph.md",
     "Graph/Cycle Detection in Undirected Graph.md",
     "Graph/BFS of Graph.md",
     "Graph/DFS of Graph.md",
@@ -208,7 +209,6 @@
     "Binary Search Tree Part 2/Two Sum IV - Input is a BST.md",
     "Binary Search Tree Part 2/Ceil in a BST.md",
     "Binary Search Tree Part 2/Kth Smallest Element in a BST.md",
-    "Binary Search Tree Part 2/Floor in a BST.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Number of Islands.md",
+                "file": "Graph/Is Graph Bipartite?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number of Islands"
+              "title": "Is Graph Bipartite?"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "b628ce06f597aa33",
   "lastOpenFiles": [
-    "Graph/Topological Sort - BFS.md",
     "Graph/Number of Islands.md",
+    "Graph/Is Graph Bipartite?.md",
+    "Graph/Topological Sort - BFS.md",
     "Graph/Cycle Detection in Directed Graph.md",
     "Graph/Cycle Detection in Undirected Graph.md",
     "Graph/BFS of Graph.md",
@@ -208,7 +209,6 @@
     "Binary Search Tree/Validate Binary Search Tree.md",
     "Binary Search Tree Part 2/Two Sum IV - Input is a BST.md",
     "Binary Search Tree Part 2/Ceil in a BST.md",
-    "Binary Search Tree Part 2/Kth Smallest Element in a BST.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",

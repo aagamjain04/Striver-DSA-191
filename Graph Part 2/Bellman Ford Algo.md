@@ -33,7 +33,7 @@ You are given:
     - Perform one more relaxation round.
     - If any distance can still be updated → **negative cycle exists** → return `[-1]`.
 4. **Final step**:
-    - Replace unreachable nodes (`∞`) with `108`.
+    - Replace unreachable nodes (`∞`) with `1e8`.
 
 #### Code :
 

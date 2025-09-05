@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Part 2/Bellman Ford Algo.md",
+                "file": "Graph Part 2/Dijkstra Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bellman Ford Algo"
+              "title": "Dijkstra Algorithm"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "right": {
     "id": "627178ac1d7eadfa",
@@ -180,8 +180,9 @@
   },
   "active": "b91c782b3d2bcb6d",
   "lastOpenFiles": [
-    "Graph Part 2/Strongly Connected Component.md",
     "Graph Part 2/Bellman Ford Algo.md",
+    "Graph Part 2/Dijkstra Algorithm.md",
+    "Graph Part 2/Strongly Connected Component.md",
     "Binary Tree Part 2/Tree Boundary Traversal.md",
     "Images/SCC.png",
     "Images/leftview.png",
@@ -211,7 +212,6 @@
     "Binary Tree Part 2/Binary Tree Level Order Traversal.md",
     "Binary Tree Part 2/Binary Tree Zigzag Level Order Traversal.md",
     "Binary Search Tree Part 2/Maximum Sum BST in a Binary Tree.md",
-    "Binary Search Tree Part 2/Binary Search Tree Iterator.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",

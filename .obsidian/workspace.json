@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16aea7a46ccba56b",
+        "id": "5ee0142e1af1a3d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b628ce06f597aa33",
+            "id": "b91c782b3d2bcb6d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Graph/Is Graph Bipartite?.md",
-                "bFile": "Graph/Is Graph Bipartite?.md",
-                "aRef": ""
+                "file": "Graph Part 2/Bellman Ford Algo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Is Graph Bipartite?"
+              "icon": "lucide-file",
+              "title": "Bellman Ford Algo"
             }
           }
         ]
@@ -178,9 +178,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b628ce06f597aa33",
+  "active": "b91c782b3d2bcb6d",
   "lastOpenFiles": [
     "Graph Part 2/Strongly Connected Component.md",
+    "Graph Part 2/Bellman Ford Algo.md",
     "Binary Tree Part 2/Tree Boundary Traversal.md",
     "Images/SCC.png",
     "Images/leftview.png",
@@ -211,7 +212,6 @@
     "Binary Tree Part 2/Binary Tree Zigzag Level Order Traversal.md",
     "Binary Search Tree Part 2/Maximum Sum BST in a Binary Tree.md",
     "Binary Search Tree Part 2/Binary Search Tree Iterator.md",
-    "Binary Search Tree/Validate Binary Search Tree.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",

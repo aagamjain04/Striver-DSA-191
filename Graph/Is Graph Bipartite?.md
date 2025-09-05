@@ -11,7 +11,6 @@ A bipartite graph is a graph which can be coloured using 2 colours such that no 
 
 ---
 
-
 ### Approach 1 :
 
 - DFS Approach

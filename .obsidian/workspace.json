@@ -11,14 +11,14 @@
             "id": "b628ce06f597aa33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Graph/Is Graph Bipartite?.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Graph/Is Graph Bipartite?.md",
+                "bFile": "Graph/Is Graph Bipartite?.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Is Graph Bipartite?"
+              "icon": "diff",
+              "title": "Diff: Is Graph Bipartite?"
             }
           }
         ]
@@ -180,8 +180,13 @@
   },
   "active": "b628ce06f597aa33",
   "lastOpenFiles": [
-    "Graph/Number of Islands.md",
+    "Graph Part 2/Strongly Connected Component.md",
+    "Binary Tree Part 2/Tree Boundary Traversal.md",
+    "Images/SCC.png",
+    "Images/leftview.png",
     "Graph/Is Graph Bipartite?.md",
+    "Graph Part 2",
+    "Graph/Number of Islands.md",
     "Graph/Topological Sort - BFS.md",
     "Graph/Cycle Detection in Directed Graph.md",
     "Graph/Cycle Detection in Undirected Graph.md",
@@ -207,8 +212,6 @@
     "Binary Search Tree Part 2/Maximum Sum BST in a Binary Tree.md",
     "Binary Search Tree Part 2/Binary Search Tree Iterator.md",
     "Binary Search Tree/Validate Binary Search Tree.md",
-    "Binary Search Tree Part 2/Two Sum IV - Input is a BST.md",
-    "Binary Search Tree Part 2/Ceil in a BST.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",
@@ -216,15 +219,12 @@
     "Binary Tree Part 3",
     "Images/boundaryTraversal.png",
     "Binary Tree Part 2",
-    "Images/leftview.png",
     "Images/bottomview.png",
     "Binary Tree 1",
     "Images/inordermorris.png",
     "Binary Tree/Untitled",
-    "Binary Tree",
     "Images/histogram.jpg",
     "Images/rotatedarray.png",
-    "Images/mcolouring.png",
-    "Images/nqueen2.png"
+    "Images/mcolouring.png"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Part 2/Dijkstra Algorithm.md",
+                "file": "Graph Part 2/Floyd Warshall Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dijkstra Algorithm"
+              "title": "Floyd Warshall Algorithm"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 364.5
   },
   "right": {
     "id": "627178ac1d7eadfa",
@@ -180,8 +180,9 @@
   },
   "active": "b91c782b3d2bcb6d",
   "lastOpenFiles": [
-    "Graph Part 2/Bellman Ford Algo.md",
     "Graph Part 2/Dijkstra Algorithm.md",
+    "Graph Part 2/Floyd Warshall Algorithm.md",
+    "Graph Part 2/Bellman Ford Algo.md",
     "Graph Part 2/Strongly Connected Component.md",
     "Binary Tree Part 2/Tree Boundary Traversal.md",
     "Images/SCC.png",
@@ -211,7 +212,6 @@
     "Binary Search Tree Part 2/Serialize and Deserialize Binary Tree.md",
     "Binary Tree Part 2/Binary Tree Level Order Traversal.md",
     "Binary Tree Part 2/Binary Tree Zigzag Level Order Traversal.md",
-    "Binary Search Tree Part 2/Maximum Sum BST in a Binary Tree.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",

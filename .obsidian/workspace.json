@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Part 2/MST Using Kruskal.md",
+                "file": "Dynamic Programming/Max Product Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MST Using Kruskal"
+              "title": "Max Product Subarray"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "b91c782b3d2bcb6d",
   "lastOpenFiles": [
-    "Graph/Cycle Detection in Undirected Graph.md",
+    "Graph/Topological Sort - BFS.md",
+    "Dynamic Programming/Max Product Subarray.md",
     "Graph Part 2/MST Using Kruskal.md",
+    "Dynamic Programming",
+    "Graph/Cycle Detection in Undirected Graph.md",
     "Graph/Cycle Detection in Directed Graph.md",
     "Graph Part 2/Floyd Warshall Algorithm.md",
     "Graph Part 2/Dijkstra Algorithm.md",
@@ -193,7 +196,6 @@
     "Graph/Is Graph Bipartite?.md",
     "Graph Part 2",
     "Graph/Number of Islands.md",
-    "Graph/Topological Sort - BFS.md",
     "Graph/BFS of Graph.md",
     "Graph/DFS of Graph.md",
     "Greedy Algorithm/Assign Cookies.md",
@@ -211,7 +213,6 @@
     "Binary Tree and Miscellaneous",
     "Heaps/Find Median from Data Stream.md",
     "Binary Search Tree Part 2/Serialize and Deserialize Binary Tree.md",
-    "Binary Tree Part 2/Binary Tree Level Order Traversal.md",
     "Binary Search Tree Part 2",
     "Images/img5.png",
     "Binary Search Tree",
@@ -222,7 +223,6 @@
     "Images/bottomview.png",
     "Binary Tree 1",
     "Images/inordermorris.png",
-    "Binary Tree/Untitled",
     "Images/histogram.jpg",
     "Images/rotatedarray.png",
     "Images/mcolouring.png"

@@ -128,7 +128,7 @@ public:
 ---
 
 
-### Approach 3 :
+### Approach 4 :
 
 - Tabulation Space Optimized
 - **Idea**

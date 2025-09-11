@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9431354792f6bbda",
+        "id": "486abaa37afd635a",
         "type": "tabs",
         "children": [
           {
-            "id": "072ebc96b01b36c2",
+            "id": "5d76593d48e083af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming/0 1 Knapsack Problem.md",
+                "file": "Dynamic Programming/Edit Distance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 1 Knapsack Problem"
+              "title": "Edit Distance"
             }
           }
         ]
@@ -178,10 +178,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "072ebc96b01b36c2",
+  "active": "5d76593d48e083af",
   "lastOpenFiles": [
-    "Dynamic Programming/Longest Common Subsequence (LCS).md",
     "Dynamic Programming/0 1 Knapsack Problem.md",
+    "Dynamic Programming/Edit Distance.md",
+    "Dynamic Programming/Longest Common Subsequence (LCS).md",
     "Dynamic Programming/Longest Increasing Subsequence (LIS).md",
     "Dynamic Programming/Max Product Subarray.md",
     "Graph/Topological Sort - BFS.md",
@@ -210,7 +211,6 @@
     "Binary Tree and Miscellaneous/Binary Tree to Doubly Linked List (DLL).md",
     "Binary Tree and Miscellaneous/Kth Largest Element in a Stream.md",
     "Self Balancing BST/B Trees.md",
-    "Self Balancing BST/AVL Vs RedBlack.md",
     "Self Balancing BST",
     "Binary Tree and Miscellaneous",
     "Binary Search Tree Part 2",

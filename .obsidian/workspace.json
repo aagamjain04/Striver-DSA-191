@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming/Longest Common Subsequence (LCS).md",
+                "file": "Dynamic Programming/0 1 Knapsack Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Common Subsequence (LCS)"
+              "title": "0 1 Knapsack Problem"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 260.5
   },
   "right": {
     "id": "627178ac1d7eadfa",
@@ -181,6 +181,7 @@
   "active": "072ebc96b01b36c2",
   "lastOpenFiles": [
     "Dynamic Programming/Longest Common Subsequence (LCS).md",
+    "Dynamic Programming/0 1 Knapsack Problem.md",
     "Dynamic Programming/Longest Increasing Subsequence (LIS).md",
     "Dynamic Programming/Max Product Subarray.md",
     "Graph/Topological Sort - BFS.md",
@@ -211,7 +212,6 @@
     "Self Balancing BST/B Trees.md",
     "Self Balancing BST/AVL Vs RedBlack.md",
     "Self Balancing BST",
-    "Binary Tree Part 3/Flatten Binary Tree to Linked List.md",
     "Binary Tree and Miscellaneous",
     "Binary Search Tree Part 2",
     "Images/img5.png",

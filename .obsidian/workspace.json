@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
+                "file": "Dynamic Programming Part 2/Coin Change Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum Path Sum in Grid"
+              "title": "Coin Change Problem"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "coin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,12 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
-    "Dynamic Programming/Edit Distance.md",
     "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
+    "Dynamic Programming Part 2/Coin Change Problem.md",
+    "readme.md",
+    "Untitled.base",
+    "Greedy Algorithm/Find minimum number of coins.md",
+    "Dynamic Programming/Edit Distance.md",
     "Dynamic Programming/Matrix Chain Multiplication.md",
     "Dynamic Programming Part 2",
     "Dynamic Programming/0 1 Knapsack Problem.md",
@@ -208,10 +212,7 @@
     "Graph/DFS of Graph.md",
     "Greedy Algorithm/Assign Cookies.md",
     "Graph/Clone Graph.md",
-    "Binary Tree and Miscellaneous/Flood Fill.md",
     "Graph",
-    "Binary Tree and Miscellaneous/Distinct numbers in Window.md",
-    "Heaps/Kth Largest Element in an Array.md",
     "Self Balancing BST",
     "Binary Tree and Miscellaneous",
     "Binary Search Tree Part 2",
@@ -220,7 +221,6 @@
     "Images/btfrompreandin.png",
     "Binary Tree Part 3",
     "Images/boundaryTraversal.png",
-    "Binary Tree Part 2",
     "Images/bottomview.png",
     "Images/inordermorris.png",
     "Images/histogram.jpg",

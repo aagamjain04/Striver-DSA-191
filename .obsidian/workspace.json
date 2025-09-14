@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming Part 2/Coin Change Problem.md",
+                "file": "Dynamic Programming Part 2/Partition Equal Subset Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coin Change Problem"
+              "title": "Partition Equal Subset Sum"
             }
           }
         ]
@@ -180,18 +180,19 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
-    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
+    "Dynamic Programming/0 1 Knapsack Problem.md",
+    "Dynamic Programming/Longest Increasing Subsequence (LIS).md",
+    "Dynamic Programming Part 2/Partition Equal Subset Sum.md",
     "Dynamic Programming Part 2/Coin Change Problem.md",
+    "Dynamic Programming/Edit Distance.md",
+    "Dynamic Programming/Maximum Sum Increasing Subsequence (MSIS).md",
+    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
     "readme.md",
     "Untitled.base",
     "Greedy Algorithm/Find minimum number of coins.md",
-    "Dynamic Programming/Edit Distance.md",
     "Dynamic Programming/Matrix Chain Multiplication.md",
     "Dynamic Programming Part 2",
-    "Dynamic Programming/0 1 Knapsack Problem.md",
-    "Dynamic Programming/Maximum Sum Increasing Subsequence (MSIS).md",
     "Dynamic Programming/Max Product Subarray.md",
-    "Dynamic Programming/Longest Increasing Subsequence (LIS).md",
     "Dynamic Programming/Longest Common Subsequence (LCS).md",
     "Graph/Topological Sort - BFS.md",
     "Graph Part 2/MST Using Kruskal.md",
@@ -211,7 +212,6 @@
     "Graph/BFS of Graph.md",
     "Graph/DFS of Graph.md",
     "Greedy Algorithm/Assign Cookies.md",
-    "Graph/Clone Graph.md",
     "Graph",
     "Self Balancing BST",
     "Binary Tree and Miscellaneous",

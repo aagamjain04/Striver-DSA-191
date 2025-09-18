@@ -115,7 +115,7 @@ public:
 
 > `Time Complexity` : O(n^2)
 > 
-> `Space Complexity` : O(1)
+> `Space Complexity` : O(n)
 
 
 ---

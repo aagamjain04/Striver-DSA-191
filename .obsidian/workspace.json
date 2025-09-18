@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming Part 2/Egg Dropping.md",
+                "file": "Dynamic Programming Part 2/Word Break.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Egg Dropping"
+              "title": "Word Break"
             }
           }
         ]
@@ -180,15 +180,16 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
+    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
+    "Dynamic Programming Part 2/Word Break.md",
+    "Dynamic Programming Part 2/Coin Change Problem.md",
     "Dynamic Programming Part 2/Minimum Cost to Cut a Stick.md",
     "Dynamic Programming Part 2/Egg Dropping.md",
     "Dynamic Programming Part 2/Partition Equal Subset Sum.md",
     "Dynamic Programming/0 1 Knapsack Problem.md",
     "Dynamic Programming/Longest Increasing Subsequence (LIS).md",
-    "Dynamic Programming Part 2/Coin Change Problem.md",
     "Dynamic Programming/Edit Distance.md",
     "Dynamic Programming/Maximum Sum Increasing Subsequence (MSIS).md",
-    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
     "readme.md",
     "Untitled.base",
     "Greedy Algorithm/Find minimum number of coins.md",
@@ -211,7 +212,6 @@
     "Graph/Is Graph Bipartite?.md",
     "Graph Part 2",
     "Graph/Number of Islands.md",
-    "Graph/BFS of Graph.md",
     "Graph",
     "Self Balancing BST",
     "Binary Tree and Miscellaneous",

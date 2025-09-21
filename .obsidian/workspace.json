@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Programming Part 2/Maximum Profit in Job Scheduling.md",
+                "file": "Trie/Implement Trie 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum Profit in Job Scheduling"
+              "title": "Implement Trie 2"
             }
           }
         ]
@@ -180,8 +180,12 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
-    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
+    "Trie/Implement Trie (Prefix Tree).md",
+    "Trie/Implement Trie 2.md",
+    "String Part 2/Compare Version Numbers.md",
     "Dynamic Programming Part 2/Maximum Profit in Job Scheduling.md",
+    "Trie",
+    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
     "Untitled.base",
     "Recursion/Palindrome Partitioning.md",
     "Dynamic Programming Part 2/Word Break.md",
@@ -206,9 +210,6 @@
     "Graph/Cycle Detection in Directed Graph.md",
     "Graph Part 2/Floyd Warshall Algorithm.md",
     "Graph Part 2/Dijkstra Algorithm.md",
-    "Graph Part 2/Bellman Ford Algo.md",
-    "Graph Part 2/Strongly Connected Component.md",
-    "Binary Tree Part 2/Tree Boundary Traversal.md",
     "Images/SCC.png",
     "Images/leftview.png",
     "Graph Part 2",
@@ -219,7 +220,6 @@
     "Images/img5.png",
     "Binary Search Tree",
     "Images/btfrompreandin.png",
-    "Binary Tree Part 3",
     "Images/boundaryTraversal.png",
     "Images/bottomview.png",
     "Images/inordermorris.png",

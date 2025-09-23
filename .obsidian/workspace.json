@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trie/Longest String with all prefixes.md",
+                "file": "Trie/Count of distinct substring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest String with all prefixes"
+              "title": "Count of distinct substring"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
-    "Trie/Implement Trie (Prefix Tree).md",
     "Trie/Longest String with all prefixes.md",
+    "Trie/Count of distinct substring.md",
+    "Trie/Implement Trie (Prefix Tree).md",
     "Trie/Implement Trie 2.md",
     "String Part 2/Compare Version Numbers.md",
     "Dynamic Programming Part 2/Maximum Profit in Job Scheduling.md",
@@ -209,7 +210,6 @@
     "Dynamic Programming",
     "Graph/Cycle Detection in Undirected Graph.md",
     "Graph/Cycle Detection in Directed Graph.md",
-    "Graph Part 2/Floyd Warshall Algorithm.md",
     "Images/SCC.png",
     "Images/leftview.png",
     "Graph Part 2",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trie/Count of distinct substring.md",
+                "file": "Trie/Power Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Count of distinct substring"
+              "title": "Power Set"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
-    "Trie/Longest String with all prefixes.md",
     "Trie/Count of distinct substring.md",
+    "Trie/Power Set.md",
+    "Trie/Longest String with all prefixes.md",
     "Trie/Implement Trie (Prefix Tree).md",
     "Trie/Implement Trie 2.md",
     "String Part 2/Compare Version Numbers.md",
@@ -209,7 +210,6 @@
     "Graph Part 2/MST Using Kruskal.md",
     "Dynamic Programming",
     "Graph/Cycle Detection in Undirected Graph.md",
-    "Graph/Cycle Detection in Directed Graph.md",
     "Images/SCC.png",
     "Images/leftview.png",
     "Graph Part 2",

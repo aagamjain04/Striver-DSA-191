@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trie/Maximum XOR of Two Numbers in an Array.md",
+                "file": "Trie/Maximum XOR With an Element From Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum XOR of Two Numbers in an Array"
+              "title": "Maximum XOR With an Element From Array"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
-    "Trie/Count of distinct substring.md",
     "Trie/Maximum XOR of Two Numbers in an Array.md",
+    "Trie/Maximum XOR With an Element From Array.md",
+    "Trie/Count of distinct substring.md",
     "Trie/Power Set.md",
     "Trie/Longest String with all prefixes.md",
     "Trie/Implement Trie (Prefix Tree).md",
@@ -208,7 +209,6 @@
     "Dynamic Programming/Max Product Subarray.md",
     "Dynamic Programming/Longest Common Subsequence (LCS).md",
     "Graph/Topological Sort - BFS.md",
-    "Graph Part 2/MST Using Kruskal.md",
     "Dynamic Programming",
     "Images/SCC.png",
     "Images/leftview.png",

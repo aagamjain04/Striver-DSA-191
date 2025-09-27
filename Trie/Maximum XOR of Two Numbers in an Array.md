@@ -116,7 +116,7 @@ public:
 
 > `Time Complexity` : O(N * B)
 > 
-> `Space Complexity` : ON * B) for trie
+> `Space Complexity` : O(N * B) for trie
 
 
 ---

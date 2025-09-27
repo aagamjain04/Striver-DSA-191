@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trie/Power Set.md",
+                "file": "Trie/Maximum XOR of Two Numbers in an Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Set"
+              "title": "Maximum XOR of Two Numbers in an Array"
             }
           }
         ]
@@ -181,6 +181,7 @@
   "active": "f5f147f0b435f5eb",
   "lastOpenFiles": [
     "Trie/Count of distinct substring.md",
+    "Trie/Maximum XOR of Two Numbers in an Array.md",
     "Trie/Power Set.md",
     "Trie/Longest String with all prefixes.md",
     "Trie/Implement Trie (Prefix Tree).md",
@@ -209,7 +210,6 @@
     "Graph/Topological Sort - BFS.md",
     "Graph Part 2/MST Using Kruskal.md",
     "Dynamic Programming",
-    "Graph/Cycle Detection in Undirected Graph.md",
     "Images/SCC.png",
     "Images/leftview.png",
     "Graph Part 2",

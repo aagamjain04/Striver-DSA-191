@@ -25,8 +25,6 @@ ac
 b
 bc
 c
-
-
 ```
 
 ---
@@ -61,7 +59,6 @@ Space Complexity: O(2^n * n) (storing subsequences).
 
 
 ---
-
 
 ### Approach 3:
 

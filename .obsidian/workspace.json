@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "670e1014ed38abc4",
+        "id": "28ff29739c54f848",
         "type": "tabs",
         "children": [
           {
-            "id": "f5f147f0b435f5eb",
+            "id": "0a84e2dbd6e90e0a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Stack and Queue Part 2/LFU Cache.md",
-                "bFile": "Stack and Queue Part 2/LFU Cache.md",
-                "aRef": ""
+                "file": "Stack and Queue Part 2/LFU Cache.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: LFU Cache"
+              "icon": "lucide-file",
+              "title": "LFU Cache"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subarray",
+                "query": "LFU",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f5f147f0b435f5eb",
+  "active": "0a84e2dbd6e90e0a",
   "lastOpenFiles": [
     "Stack and Queue Part 2/LFU Cache.md",
     "Stack and Queue/Implement Stack Using Arrays.md",

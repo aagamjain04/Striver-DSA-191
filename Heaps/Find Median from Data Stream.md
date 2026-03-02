@@ -97,12 +97,73 @@ public:
 
 ---
 
+### Approach 2 :
+
+Instead of comparing with `right.top()`, always compare with `left.top()`.
+
+- `left` = max heap (smaller half)    
+- `right` = min heap (larger half)
+- Maintain:
+    
+    - `left.size() == right.size()` OR
+    - `left.size() == right.size() + 1``
+
+Instead of handling 4–5 cases manually:
+- Always insert in `left`
+- Move largest of left to right
+- Rebalance sizes
+
+
+## Complexity
+- **addNum**: O(log n)
+- **findMedian**: O(1)
+- Space: O(n)
+
+#### Code : 
+
+```cpp
+class MedianFinder {
+public:
+
+    priority_queue<int> left;
+    priority_queue<int,vector<int>,greater<int>> right;
+
+
+    MedianFinder() {
+        
+    }
+    
+    void addNum(int num) {
+        
+       left.push(num);
+
+       right.push(left.top());
+       left.pop();
+
+       if(right.size() > left.size()){
+        left.push(right.top());
+        right.pop();
+       }
+        
+
+    }
+    
+    double findMedian() {
+        if(left.size()==right.size()){
+            return double(left.top() + right.top())/2.0;
+        }else{
+            return double(left.top());
+        }
+    }
+};
+```
+
+
+---
+
 **Follow up:**
 
 - If all integer numbers from the stream are in the range `[0, 100]`, how would you optimize your solution?
 	- Maintain a frequency array and count
 - If `99%` of all integer numbers from the stream are in the range `[0, 100]`, how would you optimize your solution?
 	- Maintain a frequency array and count for number less than 100 and heaps for greater numbers.
-
----
-

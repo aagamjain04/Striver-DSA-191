@@ -41,26 +41,42 @@ Answer = 4
 #### Code :
 
 ```cpp
-int widthOfBinaryTree(TreeNode* root) {
-    if(!root) return 0;
+class Solution {
+public:
+    int widthOfBinaryTree(TreeNode* root) {
+        
+        queue<pair<long,TreeNode*>> q;
 
-    queue<pair<long long, TreeNode*>> q;
-    q.push({0, root});
-    int maxW = 0;
-
-    while(!q.empty()) {
-        int sz = q.size();
-        long long left = q.front().first, right = left; // normalize indices
-        for(int i=0;i<sz;i++) {
-            auto [idx, node] = q.front(); q.pop();
-            right = idx;
-            if(node->left) q.push({2*(idx-left)+1, node->left});
-            if(node->right) q.push({2*(idx-left)+2, node->right});
+        if(root){
+            q.push({0,root});
         }
-        maxW = max(maxW, (int)(right - left + 1));
+        int maxW = 0;
+
+       
+        while(!q.empty()){
+            int left = INT_MAX, right = INT_MIN;
+            int sz = q.size();
+            for(int i=0;i<sz;i++){
+
+                TreeNode* curr = q.front().second;
+                int v = q.front().first;
+                q.pop();
+                left = min(left,v);
+                right = max(right,v);
+                maxW = max(maxW,right-left+1);
+        
+                if(curr->left){
+                    q.push({(long)2*v+1,curr->left});
+                }
+                if(curr->right){
+                    q.push({(long)2*v+2,curr->right});
+                }
+            }
+
+        }
+        return maxW;
     }
-    return maxW;
-}
+};
 
 ```
 

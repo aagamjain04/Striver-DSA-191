@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "28ff29739c54f848",
+        "id": "487b6a0a7188b445",
         "type": "tabs",
         "children": [
           {
-            "id": "0a84e2dbd6e90e0a",
+            "id": "a1140e262334fb14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heaps/Min Heap Implementation.md",
+                "file": "Binary Tree/Maximum Width of Binary Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Min Heap Implementation"
-            }
-          },
-          {
-            "id": "62976520ebcfce4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heaps/Find Median from Data Stream.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Find Median from Data Stream"
+              "title": "Maximum Width of Binary Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "priority",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,36 +178,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62976520ebcfce4c",
+  "active": "a1140e262334fb14",
   "lastOpenFiles": [
-    "Graph Part 2/Dijkstra Algorithm.md",
-    "Heaps/Find Median from Data Stream.md",
-    "Arrays Part 3/Search in a 2D Matrix.md",
+    "Binary Search Tree Part 2/Floor in a BST.md",
+    "Binary Search Tree Part 2/Ceil in a BST.md",
+    "Binary Search Tree Part 2/Kth Smallest Element in a BST.md",
+    "Binary Search Tree Part 2/Two Sum IV - Input is a BST.md",
+    "Binary Search Tree Part 2/Binary Search Tree Iterator.md",
+    "Binary Search Tree Part 2/Maximum Sum BST in a Binary Tree.md",
+    "Binary Search Tree Part 2/Serialize and Deserialize Binary Tree.md",
+    "Binary Search Tree/Populating Next Right Pointers in Each Node.md",
+    "Binary Search Tree/Search in a Binary Search Tree.md",
+    "Binary Search Tree/Convert Sorted Array to Binary Search Tree.md",
+    "Binary Search Tree/Construct Binary Search Tree from Preorder Traversal.md",
+    "Binary Search Tree/Validate Binary Search Tree.md",
+    "Binary Search Tree/LCA of BST.md",
+    "Binary Search Tree/Inorder predecessor and successor in BST.md",
+    "Binary Search/Nth Root of an Integer.md",
+    "Binary Search/Median of Row Wise Sorted Matrix.md",
+    "Binary Search/Single Element in a Sorted Array.md",
+    "Binary Search/Search in Rotated Sorted Array.md",
+    "Binary Search/Median of Two Sorted Arrays.md",
     "Binary Search/K-th Element of two sorted arrays.md",
-    "Greedy Algorithm/Fractional Knapsack.md",
-    "Graph/Cycle Detection in Undirected Graph.md",
-    "Trie/Implement Trie (Prefix Tree).md",
-    "Trie/Maximum XOR With an Element From Array.md",
-    "Dynamic Programming/Longest Common Subsequence (LCS).md",
-    "Stack and Queue Part 2/LFU Cache.md",
-    "Stack and Queue/Implement Stack Using Arrays.md",
-    "Stack and Queue/Sort a Stack.md",
-    "Trie/Maximum XOR of Two Numbers in an Array.md",
-    "Trie/Count of distinct substring.md",
-    "Trie/Power Set.md",
-    "Trie/Longest String with all prefixes.md",
-    "Trie/Implement Trie 2.md",
-    "String Part 2/Compare Version Numbers.md",
-    "Dynamic Programming Part 2/Maximum Profit in Job Scheduling.md",
-    "Trie",
-    "Dynamic Programming Part 2/Minimum Path Sum in Grid.md",
+    "Binary Search/Allocate Minimum Number of Pages.md",
+    "Binary Search/Aggressive Cows.md",
+    "Arrays Part 4/4Sum.md",
+    "Arrays Part 4/Two Sum.md",
+    "Arrays Part 4/Longest Consecutive Sequence.md",
+    "Arrays Part 4/Largest subarray with 0 sum.md",
     "Untitled.base",
-    "Recursion/Palindrome Partitioning.md",
-    "Dynamic Programming Part 2/Word Break.md",
-    "Dynamic Programming Part 2/Coin Change Problem.md",
-    "Dynamic Programming Part 2/Minimum Cost to Cut a Stick.md",
-    "Dynamic Programming Part 2/Egg Dropping.md",
-    "Dynamic Programming Part 2/Partition Equal Subset Sum.md",
+    "Trie",
     "Dynamic Programming Part 2",
     "Dynamic Programming",
     "Images/SCC.png",
